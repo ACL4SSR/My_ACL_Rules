@@ -146,17 +146,6 @@
 (^|\.)badad\.googleplex\.com$
 (^|\.)csi\.gstatic\.com$
 (^|\.)doubleclick(\.com|\.net)$
-# Disable customized fonts
-(^|\.)fonts\.googleapis\.com$
-(^|\.)googleadsserving\.cn$
-(^|\.)googlecommerce\.com$
-(^|\.)googletagmanager\.com$
-(^|\.)mobileads\.google\.com$
-(^|\.)pagead\-tpc\.l\.google\.com$
-(^|\.)pagead\.google\.com$
-(^|\.)pagead\.l\.google\.com$
-(^|\.)partnerad\.l\.google\.com$
-(^|\.)service\.urchin\.com$
 
 # JD
 (^|\.)(jzt|kepler|keplerapi|policy)\.jd\.com$
