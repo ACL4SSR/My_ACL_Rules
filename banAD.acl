@@ -468,7 +468,7 @@
 (^|\.)flurry\.com$
 (^|\.)go\-mpulse$
 (^|\.)googlesyndication\.com$
-(^|\.)googletagmanager\.com, REJECT
+(^|\.)googletagmanager\.com$
 (^|\.)googletagservices\.com$
 (^|\.)growingio\.com$
 (^|\.)guohead\.com$
