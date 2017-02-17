@@ -9064,13 +9064,11 @@
 
 #**********************************************************************
 [proxy_list]
-
 # MyList
 (^|\.)bandwagonhost\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.cc$
-(^|\.)ip138\.com$
 (^|\.)ipip\.net$
 (^|\.)ja7lib\.com$
 (^|\.)s3\.amazonaws\.com$
