@@ -1172,6 +1172,7 @@
 
 # CN域名直连
 ^.*\.cn$
+(^|\.)pixiv\.net$
 
 # 中国国内常见域名关键词直连
 (^|\.)\w*-cn\w*\.\w*$
@@ -7075,7 +7076,6 @@
 (^|\.)periscope\.tv$
 (^|\.)pinimg\.com$
 (^|\.)pinterest\.com$
-(^|\.)pixiv\.net$
 (^|\.)prfct\.co$
 (^|\.)resilio\.com$
 (^|\.)s3-ap-northeast-1\.amazonaws\.com$
