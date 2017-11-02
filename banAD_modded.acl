@@ -1174,6 +1174,8 @@
 ^.*\.cn$
 (^|\.)pixiv\.net$
 (^|\.)pixivision\.net$
+(^|\.)pximg\.net$
+(^|\.)pixiv\.me$
 
 # 中国国内常见域名关键词直连
 (^|\.)\w*-cn\w*\.\w*$
