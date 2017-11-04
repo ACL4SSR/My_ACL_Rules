@@ -1,11 +1,10 @@
 #**********************************************************************
-# 10.14
-# 2017年10月14日09:37:48
+# 11.03
+# 2017年11月3日11:37:47
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
 # 
-# 参照vokins的hosts规则改编，致谢!! https://github.com/vokins/yhosts
 # 参照lhie1的surge规则改编，致谢!! https://github.com/lhie1/Surge
 # 参照scomper的surge规则改编，致谢!! https://gist.github.com/scomper/915b04a974f9e11952babfd0bbb241a8/revisions
 #
@@ -288,7 +287,7 @@
 
 # Sina
 (^|\.)(adimg|pay|sax|sdkapp|sdkclick|trends|wbapp|wbclick|wbpctips)\.mobile\.sina\.cn$
-(^|\.)(ad|adbox|adm|atm|d\d|dcads|dmp|leju|sax|sax\d|slog|tjs)\.sina\.com(\.cn|)$
+(^|\.)(ad|adbox|adm|atm|d\d|dcads|dmp|leju|sax|sax\d|slog)\.sina\.com(\.cn|)$
 (^|\.)(alitui|biz|game|wax)\.weibo\.com(\.cn|)$
 (^|\.)cre\.dp\.sina\.cn$
 (^|\.)gw5\.push\.mcp\.weibo\.cn$
@@ -296,7 +295,6 @@
 (^|\.)mobileads\.dx\.cn$
 (^|\.)newspush\.sinajs\.cn$
 (^|\.)sdkapp\.uve\.weibo\.com$
-(^|\.)tjs\.sjs\.sinajs\.cn$
 (^|\.)tui\.weibo\.com$
 (^|\.)wbapp\.uve\.weibo\.com$
 (^|\.)zymo\.mps\.weibo\.com$
@@ -305,6 +303,10 @@
 (^|\.)(123|adsence|brand|cpc|epro|fair|files2|goto|golden1|inte|iwan|lu|pb|pd|pv|theta|wan|wangmeng)\.sogou\.com$
 (^|\.)(123|galaxy|lu)\.sogoucdn\.com$
 (^|\.)amfi\.gou\.sogou\.com$
+
+# Teleplus
+(^|\.)applovin\.com$
+(^|\.)guangzhuiyuan\.com$
 
 # Toutiao
 (^|\.)(ad|d|sm|dsp|nativeapp|partner)\.toutiao\.com$
@@ -363,6 +365,9 @@
 (^|\.)biz5\.kankan\.com$
 (^|\.)float\.kankan\.com$
 (^|\.)logic\.cpm\.cm\.kankan\.com$
+(^|\.)hub5btmain\.sandai\.net$
+(^|\.)hub5emu\.sandai\.net$
+(^|\.)upgrade\.xl9\.xunlei\.com$
 
 # Yahoo
 (^|\.)beap\.gemini\.yahoo\.com$
@@ -746,6 +751,7 @@
 (^|\.)clickzs\.com$
 (^|\.)cloudmobi\.net$
 (^|\.)cmcore\.com$
+(^|\.)cnxad\.com$
 (^|\.)cnzz\.com$
 (^|\.)cnzzlink\.com$
 (^|\.)cocounion\.com$
@@ -755,7 +761,6 @@
 (^|\.)cpx24\.com$
 (^|\.)crasheye\.cn$
 (^|\.)crosschannel\.com$
-(^|\.)crunchyroll\.com$
 (^|\.)customer-security\.online$
 (^|\.)daoyoudao\.com$
 (^|\.)datouniao\.com$
@@ -934,6 +939,8 @@
 (^|\.)ugvip\.com$
 (^|\.)ujian\.cc$
 (^|\.)ukeiae\.com$
+(^|\.)umeng\.co$
+(^|\.)umeng\.com$
 (^|\.)umengcloud\.com$
 (^|\.)umtrack\.com$
 (^|\.)unimhk\.com$
@@ -979,6 +986,7 @@
 (^|\.)youmi\.net$
 (^|\.)youxiaoad\.com$
 (^|\.)yoyi\.com\.cn$
+(^|\.)yoyi\.tv$
 (^|\.)yrxmr\.com$
 (^|\.)ysjwj\.com$
 (^|\.)yunjiasu\.com$
@@ -1010,6 +1018,7 @@
 (^|\.)exoclick\.com$
 (^|\.)flurry\.com$
 (^|\.)gtags\.net$
+(^|\.)i-mobile\.co\.jp$
 (^|\.)imrworldwide\.com$
 (^|\.)inmobi\.com$
 (^|\.)jizzads\.com$
@@ -1033,12 +1042,14 @@
 (^|\.)tapjoyads\.com$
 (^|\.)viglink\.com$
 (^|\.)yadro\.ru$
-(^|\.)yandex\.ru$
 (^|\.)yengo\.com$
 
 # 垃圾网站
 (^|\.)appget\.cn$
 (^|\.)appuu\.cn$
+(^|\.)coinhive\.com$
+(^|\.)minghui\.org$
+(^|\.)win-stock\.com\.cn$
 
 ### 运营商广告
 (^|\.)\w\w(\w|)dnserror\d(\d|)\.wo\.com\.cn

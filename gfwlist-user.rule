@@ -1,10 +1,9 @@
 #**********************************************************************
-# 10.13
-# 2017年10月13日 19:46:16
+# 10.24
+# 2017年10月24日 18:46:03
 # 适用于SSR C#客户端
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
 #
-# 参照vokins大神的hosts规则改编，致谢!! https://github.com/vokins/yhosts
 # 参照lhie1大神的surge规则改编，致谢!! https://github.com/lhie1/Surge
 # 参照scomper大神的surge规则改编，致谢!! https://gist.github.com/scomper/915b04a974f9e11952babfd0bbb241a8/revisions
 #
@@ -5747,7 +5746,7 @@
 .mobileads.dx.cn reject
 .newspush.sinajs.cn reject
 .sdkapp.uve.weibo.com reject
-.tjs.sjs.sinajs.cn reject
+# .tjs.sjs.sinajs.cn reject
 .tui.weibo.com reject
 .wbapp.uve.weibo.com reject
 .zymo.mps.weibo.com reject
@@ -6284,6 +6283,8 @@
 .ajapk.com reject
 .allyes.cn reject
 .allyes.com reject
+.alog.umeng.co reject
+.alog.umeng.com reject
 .amazon-adsystem.com reject
 .analysys.cn reject
 .angsrvr.com reject
@@ -6579,7 +6580,6 @@
 .adsymptotic.com reject
 .am15.net reject
 .bepolite.eu reject
-.co.jp reject
 .criteo.com reject
 .directrev.com reject
 .dumedia.ru reject
