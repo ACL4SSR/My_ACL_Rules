@@ -25,6 +25,21 @@
 [outbound_block_list]
 # 禁止访问列表
 
+#自定义
+(^|\.)esyzdb\.com$
+(^|\.)njwdj\.com$
+(^|\.)qekun\.com$
+(^|\.)wayk\.com$
+(^|\.)meiuio\.com$
+(^|\.)wfyqc\.com$
+(^|\.)zbred\.com$
+(^|\.)domyjourney\.cn$
+(^|\.)lemaingems\.cn$
+(^|\.)32iseo\.com$
+(^|\.)sdhckj\.com$
+(^|\.)aihaogou\.com\.cn$
+58.215.133.0/24
+
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
 (^|\.)\w*admaster\w*\..*$
@@ -56,6 +71,7 @@
 (^|\.)\w*zjtoolbar\w*\..*$
 (^|\.)ad\d{0,3}\..*$
 (^|\.)ads\d{0,3}\..*$
+
 
 # 163
 (^|\.)(adgeo|bobo|fa|g|g1|gb|nex)(\.corp|)\.163\.com$
@@ -331,6 +347,7 @@
 # Weifeng
 (^|\.)fengbuy\.com$
 (^|\.)we\.tm$
+
 
 # WPS Office
 (^|\.)(bannera|rating6|cloudservice.*)\.kingsoft-office-service\.com$
