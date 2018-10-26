@@ -6898,6 +6898,9 @@
 (^|\.)steampowered\.com$
 (^|\.)steamstatic\.com$
 
+# BITMEX
+(^|\.)bitmex\.com$
+
 # Telegram
 91.108.0.0/16
 109.239.140.0/24
