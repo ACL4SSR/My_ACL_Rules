@@ -1488,6 +1488,7 @@
 [proxy_list]
 
 # MyList
+(^|\.)bing\.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
