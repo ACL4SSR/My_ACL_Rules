@@ -1,6 +1,6 @@
 #**********************************************************************
-# 10.20
-# 2018年10月20日15:55:33
+# 12.23
+# 2018年12月23日22:35:08
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -335,6 +335,7 @@
 
 # Douyin
 (^|\.)log\.snssdk\.com$
+(^|\.)ic\.snssdk\.com$
 
 # Duomi
 (^|\.)ad\.duomi\.com$
@@ -439,7 +440,7 @@
 
 # QQ
 (^|\.)\w*omgmta\w*\.\w*$
-(^|\.)(act|adsfile|bugly|buluo|monitor|pingma|pingtcss|report|tajs|tcss|uu)\.qq\.com$
+(^|\.)(act|adsfile|bugly|buluo|gdt|monitor|pingma|pingtcss|report|tajs|tcss|uu)\.qq\.com$
 (^|\.)ad\.qun\.qq\.com$
 
 # RenRen
@@ -470,7 +471,7 @@
 (^|\.)applovin\.com$
 (^|\.)guangzhuiyuan\.com$
 
-# Toutiao
+# Toutiao	
 (^|\.)(ad|sm|dsp|nativeapp|partner)\.toutiao\.com$
 
 # Twitter
@@ -606,6 +607,7 @@
 
 # LeTV 乐视
 (^|\.)(ark|dc|fz|g3|minisite|pro|stat)\.letv\.com$
+(^|\.)(1|2)\.letvlive\.com$
 (^|\.)(i0|i3)\.letvimg\.com$
 (^|\.)game\.letvstore\.com$
 (^|\.)n\.mark\.letv\.com$
@@ -620,21 +622,13 @@
 # Sohu 搜狐
 (^|\.)(888|lm|push)\.tv\.sohu\.com$
 (^|\.)(aty|bd|click|click2|ctr|pv|pb|wl|um)\.hd\.sohu\.com$
-(^|\.)(ads|adnet|aty|epro|golden1|hui|inte|uranus|wan|yule|pv)\.sohu\.com$
+(^|\.)(ads|adnet|aty|epro|go|golden1|hui|inte|uranus|wan|yule|pv)\.sohu\.com$
+(^|\.)(epro|golden1|inte|uranus|pv)\.sogou\.com$
 (^|\.)(inte|lu|theta)\.sogoucdn\.com$
-(^|\.)api\.k\.sohu\.com$
-(^|\.)count\.vrs\.sohu\.com$
-(^|\.)data\.vod\.itc\.cn$
-(^|\.)go\.sohu\.com$
-(^|\.)goto\.sms\.sohu\.com$
-(^|\.)imp\.optaim\.com$
-(^|\.)pv\.ott\.hd\.sohu\.com$
-(^|\.)score\.my\.tv\.sohu\.com$
-(^|\.)zz\.m\.sohu\.com$
 
 # PPTV、PPLive
 (^|\.)(de|jp)\.as\.pptv\.com$
-(^|\.)ads\.aplus\.pptv\.com$
+(^|\.)(app|as)\.aplus\.pptv\.com$
 (^|\.)afp\.pplive\.com$
 (^|\.)asimgs\.pplive\.cn$
 (^|\.)pp2\.pptv\.com$
@@ -704,7 +698,6 @@
 223.87.182.52/32
 
 # Youtube
-(^|\.)ads\.youtube\.com$
 (^|\.)azabu-u\.ac\.jp$
 (^|\.)couchcoaster\.jp$
 (^|\.)delivery\.dmkt-sp\.jp$
@@ -722,7 +715,6 @@
 (^|\.)c\.algovid\.com$
 (^|\.)cc\.xtgreat\.com$
 (^|\.)d\.dsp\.imageter\.com$
-(^|\.)dotcounter\.douyutv\.com$
 (^|\.)gg\.jtertp\.com$
 (^|\.)gridsum-vd\.cntv\.cn$
 (^|\.)kwflvcdn\.000dn\.com$
@@ -797,7 +789,6 @@
 (^|\.)ssp\.kssws\.ks-cdn\.com$
 (^|\.)stats\.chinaz\.com$
 (^|\.)stats\.developingperspective\.com$
-(^|\.)stats\.jpush\.cn$
 (^|\.)tjlog\.easou\.com$
 (^|\.)tjlog\.ps\.easou\.com$
 (^|\.)track\.hujiang\.com$
@@ -805,6 +796,7 @@
 (^|\.)up\.qingdaonews\.com$
 
 # 广告联盟-国内****************
+(^|\.)09mk\.cn$
 (^|\.)100peng\.com$
 (^|\.)114la\.com$
 (^|\.)123juzi\.net$
@@ -850,6 +842,7 @@
 (^|\.)adlocus\.com$
 (^|\.)admin6\.com$
 (^|\.)admon\.cn$
+(^|\.)adnyg\.com$
 (^|\.)adpolestar\.net$
 (^|\.)adpro\.cn$
 (^|\.)adpush\.cn$
@@ -858,6 +851,7 @@
 (^|\.)ads8\.com$
 (^|\.)adsame\.com$
 (^|\.)adsmogo\.com$
+(^|\.)adsmogo\.org$
 (^|\.)adsunflower\.com$
 (^|\.)adsunion\.com$
 (^|\.)adtrk\.me$
@@ -880,7 +874,7 @@
 (^|\.)allyes\.com$
 (^|\.)amazon-adsystem\.com$
 (^|\.)amplitude\.com$
-(^|\.)analysys\.cn$
+(^|\.)analysys\.cn
 (^|\.)angsrvr\.com$
 (^|\.)anquan\.org$
 (^|\.)anysdk\.com$
@@ -956,6 +950,7 @@
 (^|\.)edigitalsurvey\.com$
 (^|\.)eduancm\.com$
 (^|\.)emarbox\.com$
+(^|\.)epsilon\.com$
 (^|\.)exosrv\.com$
 (^|\.)fancyapi\.com$
 (^|\.)feixin2\.com$
@@ -982,6 +977,7 @@
 (^|\.)imageter\.com$
 (^|\.)immob\.cn$
 (^|\.)inad\.com$
+(^|\.)inmobi\.cn$
 (^|\.)inmobicdn\.net$
 (^|\.)innity\.com$
 (^|\.)instabug\.com$
@@ -1096,11 +1092,13 @@
 (^|\.)social-touch\.com$
 (^|\.)somecoding\.com$
 (^|\.)sponsorpay\.com$
+(^|\.)stargame\.com$
 (^|\.)stg8\.com$
 (^|\.)switchadhub\.com$
 (^|\.)sycbbs\.com$
 (^|\.)synacast\.com$
 (^|\.)sysdig\.com$
+(^|\.)tagtic\.cn$
 (^|\.)talkingdata\.com$
 (^|\.)talkingdata\.net$
 (^|\.)tansuotv\.com$
@@ -1117,6 +1115,7 @@
 (^|\.)tuia\.cn$
 (^|\.)ueadlian\.com$
 (^|\.)uerzyr\.cn$
+(^|\.)ugdtimg\.com$
 (^|\.)ugvip\.com$
 (^|\.)ujian\.cc$
 (^|\.)ukeiae\.com$
@@ -1176,7 +1175,9 @@
 (^|\.)yrxmr\.com$
 (^|\.)ysjwj\.com$
 (^|\.)yunjiasu\.com$
+(^|\.)yunpifu\.cn$
 (^|\.)zampdsp\.com$
+(^|\.)zamplus\.com$
 (^|\.)zcdsp\.com$
 (^|\.)zhidian3g\.cn$
 (^|\.)zhiziyun\.com$
@@ -1253,6 +1254,7 @@
 (^|\.)mdotm\.com$
 (^|\.)mgid\.com$
 (^|\.)millennialmedia\.com$
+(^|\.)moatads \.com$
 (^|\.)mobadme\.jp$
 (^|\.)mobfox\.com$
 (^|\.)mobilityware\.com$
@@ -1296,6 +1298,7 @@
 (^|\.)appget\.cn$
 (^|\.)appuu\.cn$
 (^|\.)coinhive\.com$
+(^|\.)huodonghezi\.cn$
 (^|\.)wanfeng1\.com$
 (^|\.)win-stock\.com\.cn$
 (^|\.)zantainet\.com$
@@ -1474,6 +1477,7 @@
 222.186.61.97/32
 222.187.226.96/32
 223.6.255.99/32
+
 
 #**********************************************************************
 [proxy_list]
@@ -1667,13 +1671,17 @@
 (^|\.)teddysun\.com$
 (^|\.)unsplash\.com$
 
-# Apple
-(^|\.)itunes.apple\.com$
+# APKPURE
+(^|\.)apkpure\.com$
 
 # BBC
 (^|\.)\w*uk-live\w*\.\w*$
 (^|\.)bbc\.co$
 (^|\.)bbc\.com$
+
+# Discord
+(^|\.)discordapp\.com$
+(^|\.)discordapp\.net$
 
 # Epicgames
 (^|\.)\w*epicgames\w*\.\w*$
