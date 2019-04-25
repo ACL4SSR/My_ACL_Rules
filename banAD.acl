@@ -1492,6 +1492,7 @@
 (^|\.)\w*appzapp\w*\.\w*$
 (^|\.)\w*baidupcs\w*\.\w*$
 (^|\.)\w*bilibili\w*\.\w*$
+(^|\.)\w*binance\w*\.\w*$
 (^|\.)\w*ccgslb\w*\.\w*$
 (^|\.)\w*chinacache\w*\.\w*$
 (^|\.)\w*duobao\w*\.\w*$
