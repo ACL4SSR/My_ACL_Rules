@@ -7553,6 +7553,8 @@
 (^|\.)\w*twitter\w*\.\w*$
 (^|\.)\w*whatsapp\w*\.\w*$
 (^|\.)\w*youtube\w*\.\w*$
+(^|\.)\w*ssrtool\w*\.\w*$
+
 
 # Top blocked sites
 (^|\.)4sqi\.net$
