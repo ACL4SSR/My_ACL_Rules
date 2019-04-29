@@ -5360,7 +5360,7 @@
 (^|\.)www\.wan-press\.org$
 (^|\.)www\.wangruowang\.org$
 (^|\.)www\.websnapr\.com$
-(^|\.)www\.wikipedia\.org$
+(^|\.)www\.*\.wikipedia\.org$
 (^|\.)www\.zensur\.freerk\.com$
 (^|\.)www1\.american\.edu$
 (^|\.)www1\.biz$
