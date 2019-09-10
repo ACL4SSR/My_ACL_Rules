@@ -6126,7 +6126,7 @@
 (^|\.)xn--i2ru8q2qg\.com$
 
 #test
-http://mangaapi\.manhuaren\.com$
+(^|\.)mangaapi\.manhuaren\.com$
 #testend
 
 # 国外域名关键字
