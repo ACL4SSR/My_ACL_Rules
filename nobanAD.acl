@@ -6125,6 +6125,10 @@
 (^|\.)twdvd\.com$
 (^|\.)xn--i2ru8q2qg\.com$
 
+#test
+http://mangaapi\.manhuaren\.com$
+#testend
+
 # 国外域名关键字
 (^|\.)\w*1e100\w*\.\w*$
 (^|\.)\w*abema\w*\.\w*$
