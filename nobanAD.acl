@@ -6127,6 +6127,7 @@
 
 #test
 (^|\.)mangaapi\.manhuaren\.com$
+(^|\.)dm5\.com$
 #testend
 
 # 国外域名关键字
