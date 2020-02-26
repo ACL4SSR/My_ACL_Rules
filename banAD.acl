@@ -1,6 +1,6 @@
 #**********************************************************************
-# 02.23
-# 2020年2月23日18:22:39
+# 02.26
+# 2020年2月26日19:33:11
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -8226,7 +8226,6 @@
 [proxy_list]
 # 代理列表
 api.manhuaren.com
-
 # MyList && Other
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
@@ -8355,7 +8354,6 @@ api.manhuaren.com
 (^|\.)periscope\.tv$
 (^|\.)pinimg\.com$
 (^|\.)pinterest\.com$
-(^|\.)pixiv\.net$
 (^|\.)potato\.im$
 (^|\.)prfct\.co$
 (^|\.)pscp\.tv$
@@ -8451,19 +8449,22 @@ api.manhuaren.com
 (^|\.)1e100\.net$
 (^|\.)2mdn\.net$
 (^|\.)app-measurement\.net$
+(^|\.)g\.co$
 (^|\.)ggpht\.com$
+(^|\.)goo\.gl$
 (^|\.)googleapis\.cn$
 (^|\.)googleapis\.com$
 (^|\.)gstatic\.cn$
 (^|\.)gstatic\.com$
-(^|\.)g\.co$
-(^|\.)goo\.gl$
 (^|\.)gvt0\.com$
 (^|\.)gvt1\.com$
+(^|\.)gvt2\.com$
+(^|\.)gvt3\.com$
 (^|\.)xn--ngstr-lra8j\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$
 (^|\.)youtube\.com$
+(^|\.)yt\.be$
 (^|\.)ytimg\.com$
 8.8.8.8
 8.8.4.4
@@ -8621,6 +8622,10 @@ api.manhuaren.com
 198.45.48.0/20
 207.45.72.0/22
 208.75.76.0/24
+
+# Pixiv
+(^|\.)pixiv\.net$
+(^|\.)pximg\.net$
 
 # ResiloSync
 (^|\.)config\.getsync\.com$
