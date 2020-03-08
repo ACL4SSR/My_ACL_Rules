@@ -5,4 +5,5 @@ USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,oneclient.live.com
 DOMAIN-KEYWORD,1drv
