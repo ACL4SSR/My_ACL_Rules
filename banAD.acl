@@ -1,6 +1,6 @@
 #**********************************************************************
-# 03.05
-# 2020年3月5日00:03:42
+# 03.09
+# 2020年3月9日 21:18:53
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -176,7 +176,6 @@
 (^|\.)api\.cpu\.baidu\.com$
 (^|\.)api\.mobula\.sdk\.duapps\.com$
 (^|\.)ashifen\.com$
-(^|\.)b\.bdstatic\.com$
 (^|\.)baichuan\.baidu\.com$
 (^|\.)baidu9635\.com$
 (^|\.)baidustatic\.com$
@@ -184,7 +183,6 @@
 (^|\.)baikebcs\.bdimg\.com$
 (^|\.)banlv\.baidu\.com$
 (^|\.)bar\.baidu\.com$
-(^|\.)bce\.baidu\.com$
 (^|\.)bdimg\.share\.baidu\.com$
 (^|\.)bdplus\.baidu\.com$
 (^|\.)btlaunch\.baidu\.com$
@@ -227,7 +225,6 @@
 (^|\.)gimg\.baidu\.com$
 (^|\.)guanjia\.baidu\.com$
 (^|\.)idm-su\.baidu\.com$
-(^|\.)idm\.bce\.baidu\.com$
 (^|\.)iebar\.baidu\.com$
 (^|\.)ikcode\.baidu\.com$
 (^|\.)img01\.taotaosou\.cn$
@@ -582,7 +579,6 @@
 (^|\.)cupid\.iqiyi\.com$
 (^|\.)emoticon\.sns\.iqiyi\.com$
 (^|\.)gamecenter\.iqiyi\.com$
-(^|\.)hotchat-im\.iqiyi\.com$
 (^|\.)ifacelog\.iqiyi\.com$
 (^|\.)mbdlog\.iqiyi\.com$
 (^|\.)meta\.video\.qiyi\.com$
@@ -1718,6 +1714,59 @@
 (^|\.)helpshift\.com$
 (^|\.)paragon\.com$
 (^|\.)unrealengine\.com$
+
+# Google China
+(^|\.)265\.com$
+(^|\.)2mdn\.net$
+(^|\.)alt[0-8]-mtalk\.google\.com$
+(^|\.)app-measurement\.com$
+(^|\.)beacons\.gcp\.gvt2\.com$
+(^|\.)beacons\.gvt2\.com$
+(^|\.)beacons3\.gvt2\.com$
+(^|\.)c\.android\.clients\.google\.com$
+(^|\.)cache\.pack\.google\.com$
+(^|\.)checkin\.gstatic\.com$
+(^|\.)clickserve\.dartsearch\.net$
+(^|\.)clientservices\.googleapis\.com$
+(^|\.)connectivitycheck\.gstatic\.com$
+(^|\.)crl\.pki\.goog$
+(^|\.)dl\.google\.com$
+(^|\.)dl\.l\.google\.com$
+(^|\.)fonts\.googleapis\.com$
+(^|\.)fonts\.gstatic\.com$
+(^|\.)googletagmanager\.com$
+(^|\.)googletagservices\.com$
+(^|\.)gtm\.oasisfeng\.com$
+(^|\.)imasdk\.googleapis\.com$
+(^|\.)kh\.google\.com$
+(^|\.)khm\.google\.com$
+(^|\.)khm\.googleapis\.com$
+(^|\.)khm0\.google\.com$
+(^|\.)khm0\.googleapis\.com$
+(^|\.)khm1\.google\.com$
+(^|\.)khm1\.googleapis\.com$
+(^|\.)khm2\.google\.com$
+(^|\.)khm2\.googleapis\.com$
+(^|\.)khm3\.google\.com$
+(^|\.)khm3\.googleapis\.com$
+(^|\.)khmdb\.google\.com$
+(^|\.)khmdb\.googleapis\.com$
+(^|\.)mtalk\.google\.com$
+(^|\.)ocsp\.pki\.goog$
+(^|\.)recaptcha\.net$
+(^|\.)redirector\.gvt1\.com$
+(^|\.)safebrowsing-cache\.google\.com$
+(^|\.)safebrowsing\.googleapis\.com$
+(^|\.)settings\.crashlytics\.com$
+(^|\.)ssl-google-analytics\.l\.google\.com$
+(^|\.)ssl\.gstatic\.com$
+(^|\.)toolbarqueries\.google\.com$
+(^|\.)tools\.google\.com$
+(^|\.)tools\.l\.google\.com$
+(^|\.)translate\.googleapis\.com$
+(^|\.)update\.googleapis\.com$
+(^|\.)www-googletagmanager\.l\.google\.com$
+(^|\.)www\.gstatic\.com$
 
 # HuaWei
 (^|\.)dbankcdn\.com$
@@ -8277,11 +8326,17 @@ api.manhuaren.com
 (^|\.)ping\.pe$
 (^|\.)reddit\.com$
 (^|\.)teddysun\.com$
+(^|\.)textnow\.com$
 (^|\.)tumbex\.com$
 (^|\.)twdvd\.com$
 (^|\.)unsplash\.com$
 (^|\.)xn--i2ru8q2qg\.com$
 (^|\.)yunpanjingling\.com$
+(^|\.)ec2-54-210-142-85\.computer-1\.amazonaws\.com$
+(^|\.)ec2-54-174-24-124\.computer-1\.amazonaws\.com$
+(^|\.)ec2-54-174-178-70\.computer-1\.amazonaws\.com$
+(^|\.)ec2-54-175-2-194\.computer-1\.amazonaws\.com$
+(^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$
 
 # 国外域名
 ^.*\.hk$
@@ -8637,17 +8692,18 @@ api.manhuaren.com
 (^|\.)yammer\.com$
 (^|\.)yammerusercontent\.com$
 
-# Netflix & MytvSUPER
+# MytvSUPER
 (^|\.)\w*nowtv100\w*\.\w*$
 (^|\.)\w*rthklive\w*\.\w*$
 (^|\.)mytvsuper\.com$
+
+# Netflix
 (^|\.)netflix\.com$
 (^|\.)netflix\.net$
 (^|\.)nflxext\.com$
 (^|\.)nflximg\.com$
 (^|\.)nflximg\.net$
 (^|\.)nflxvideo\.net$
-(^|\.)tvb\.com$
 8.41.4.0/24
 23.246.0.0/18
 37.77.184.0/21
@@ -8662,7 +8718,7 @@ api.manhuaren.com
 198.38.96.0/19
 198.45.48.0/20
 207.45.72.0/22
-208.75.76.0/24
+208.75.76.0/22
 
 # Pixiv
 (^|\.)pixiv\.net$
