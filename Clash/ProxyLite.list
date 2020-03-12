@@ -296,7 +296,6 @@ DOMAIN-SUFFIX,steamstatic.com
 # Twitch
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,akamaized.net
 
 # Twitter
@@ -324,7 +323,6 @@ IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 
 # Whatsapp
-IP-CIDR,18.194.0.0/15,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
