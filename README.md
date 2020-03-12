@@ -1,10 +1,14 @@
 # SSR去广告规则/GFWList规则/Clash规则碎片
-[![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
-* 项目基于CC-BY-SA-4.0协议发布
+
+* CDN更新状态：[![Actions Status](https://github.com/ACL4SSR/ACL4SSR/workflows/Purge%20CDN%20Cache/badge.svg)](https://github.com/ACL4SSR/ACL4SSR/actions)
+* 项目基于CC-BY-SA-4.0协议发布  [![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 * 仅推荐未root的安卓手机使用。
-* Telegram频道订阅地址：**https://t.me/ACL4SSR**
-* 有问题可以发issue或者私聊：**https://t.me/leosam1024**
+* Telegram频道订阅地址：**[https://t.me/ACL4SSR](https://t.me/ACL4SSR)**
+* 有问题可以发issue或者私聊：**[https://t.me/leosam1024](https://t.me/leosam1024)**
+* 在线订阅转换：**[https://acl4ssr.netlify.com](https://acl4ssr.netlify.com)**
+* 镜像同步地址：**[https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@latest/](https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@latest/)**
 * [关于中国的互联网](https://github.com/ACL4SSR/ACL4SSR/wiki/关于中国的互联网)
+  
 
 # 安卓 SSR 去广告ACL规则
   * 屏蔽小米手机和魅族flyme rom系统广告
