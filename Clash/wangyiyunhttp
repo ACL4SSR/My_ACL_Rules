@@ -58,17 +58,18 @@ custom_proxy_group=🛑 广告拦截-应用广告`select`[]REJECT`[]DIRECT`[]�
 custom_proxy_group=🛑 广告拦截-EeasyList`select`[]REJECT`[]DIRECT`[]🚀 节点选择`[]✈ 手动选择`[]⚡ 延迟最低`[]♻️ 故障切换
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]✈ 手动选择`[]⚡ 延迟最低`[]♻️ 故障切换`[]DIRECT
 custom_proxy_group=🍃 直连流量规则`select`[]DIRECT`[]🚀 节点选择`[]✈ 手动选择`[]⚡ 延迟最低`[]♻️ 故障切换
-custom_proxy_group=🎵 网易云解锁A`select`[]网易云音乐`本地网易云解锁`[]DIRECT`[]🚀 节点选择`[]✈ 手动选择`[]⚡ 延迟最低`[]♻️ 故障切换
+custom_proxy_group=🎵 网易云解锁A`select`[]网易云音乐`本地网易云解锁`HTTP网易云解锁`[]DIRECT`[]🚀 节点选择`[]✈ 手动选择`[]⚡ 延迟最低`[]♻️ 故障切换
 custom_proxy_group=🎵 网易云解锁B`select`[]REJECT`[]DIRECT`[]🚀 节点选择`[]✈ 手动选择`[]⚡ 延迟最低`[]♻️ 故障切换
 custom_proxy_group=✈ 手动选择`select`.*
-custom_proxy_group=⚡ 延迟最低`url-test`^(?!网易云音乐|music.desperadoj.com:30002|本地网易云解锁)`http://www.gstatic.com/generate_204`300
-custom_proxy_group=♻️ 故障切换`fallback`^(?!网易云音乐|music.desperadoj.com:30002|本地网易云解锁)`http://www.gstatic.com/generate_204`300
+custom_proxy_group=⚡ 延迟最低`url-test`^(?!网易云音乐|127.0.0.1:7800|本地网易云解锁|HTTP网易云解锁)`http://www.gstatic.com/generate_204`300
+custom_proxy_group=♻️ 故障切换`fallback`^(?!网易云音乐|127.0.0.1:7800|本地网易云解锁|HTTP网易云解锁)`http://www.gstatic.com/generate_204`300
 
 ;设置分组标志位
 
 enable_rule_generator=true
 overwrite_original_rules=true
-rename=music.desperadoj.com:30002@本地网易云解锁
+rename=127.0.0.1:7800@本地网易云解锁
+rename=music.desperadoj.com:30002@HTTP网易云解锁
 
 clash_rule_base=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GeneralClashConfig.yml
 
