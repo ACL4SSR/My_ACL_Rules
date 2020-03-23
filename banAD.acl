@@ -1,6 +1,6 @@
 #**********************************************************************
-# 02.23
-# 2020年2月23日18:22:39
+# 03.14
+# 2020年3月14日23:54:00
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -176,7 +176,6 @@
 (^|\.)api\.cpu\.baidu\.com$
 (^|\.)api\.mobula\.sdk\.duapps\.com$
 (^|\.)ashifen\.com$
-(^|\.)b\.bdstatic\.com$
 (^|\.)baichuan\.baidu\.com$
 (^|\.)baidu9635\.com$
 (^|\.)baidustatic\.com$
@@ -184,7 +183,6 @@
 (^|\.)baikebcs\.bdimg\.com$
 (^|\.)banlv\.baidu\.com$
 (^|\.)bar\.baidu\.com$
-(^|\.)bce\.baidu\.com$
 (^|\.)bdimg\.share\.baidu\.com$
 (^|\.)bdplus\.baidu\.com$
 (^|\.)btlaunch\.baidu\.com$
@@ -227,7 +225,6 @@
 (^|\.)gimg\.baidu\.com$
 (^|\.)guanjia\.baidu\.com$
 (^|\.)idm-su\.baidu\.com$
-(^|\.)idm\.bce\.baidu\.com$
 (^|\.)iebar\.baidu\.com$
 (^|\.)ikcode\.baidu\.com$
 (^|\.)img01\.taotaosou\.cn$
@@ -421,7 +418,6 @@
 (^|\.)(d|migc|migcreport|mis)\.g\.mi\.com$
 (^|\.)(notice|ppurifier)\.game\.xiaomi\.com$
 (^|\.)(r|security)\.browser\.miui\.com$
-(^|\.)adv\.sec\.miui\.com$
 (^|\.)tracking\.miui\.com$
 (^|\.)union\.mi\.com$
 
@@ -582,7 +578,6 @@
 (^|\.)cupid\.iqiyi\.com$
 (^|\.)emoticon\.sns\.iqiyi\.com$
 (^|\.)gamecenter\.iqiyi\.com$
-(^|\.)hotchat-im\.iqiyi\.com$
 (^|\.)ifacelog\.iqiyi\.com$
 (^|\.)mbdlog\.iqiyi\.com$
 (^|\.)meta\.video\.qiyi\.com$
@@ -805,6 +800,7 @@
 (^|\.)3gmimo\.com$
 (^|\.)3xx\.vip$
 (^|\.)51\.la$
+(^|\.)51taifu\.com$
 (^|\.)51yes\.com$
 (^|\.)600ad\.com$
 (^|\.)6dad\.com$
@@ -819,6 +815,7 @@
 (^|\.)acs86\.com$
 (^|\.)acxiom-online\.com$
 (^|\.)ad-brix\.com$
+(^|\.)ad-delivery\.net$
 (^|\.)ad-locus\.com$
 (^|\.)ad-plus\.cn$
 (^|\.)ad7\.com$
@@ -839,6 +836,7 @@
 (^|\.)adkmob\.com$
 (^|\.)adlive\.cn$
 (^|\.)adlocus\.com$
+(^|\.)admaji\.com$
 (^|\.)admin6\.com$
 (^|\.)admon\.cn$
 (^|\.)adnyg\.com$
@@ -859,7 +857,7 @@
 (^|\.)advertising\.com$
 (^|\.)adview\.cn$
 (^|\.)advmob\.cn$
-(^|\.)adwetec\.cn$
+(^|\.)adwetec\.com$
 (^|\.)adwhirl\.com$
 (^|\.)adwo\.com$
 (^|\.)adxmi\.com$
@@ -874,7 +872,7 @@
 (^|\.)allyes\.com$
 (^|\.)amazon-adsystem\.com$
 (^|\.)amplitude\.com$
-(^|\.)analysys\.cn
+(^|\.)analysys\.cn$
 (^|\.)angsrvr\.com$
 (^|\.)anquan\.org$
 (^|\.)anysdk\.com$
@@ -905,6 +903,7 @@
 (^|\.)bugtags\.com$
 (^|\.)buysellads\.com$
 (^|\.)c0563\.com$
+(^|\.)cacafly\.com$
 (^|\.)casee\.cn$
 (^|\.)cdnmaster\.com$
 (^|\.)chance-ad\.com$
@@ -923,6 +922,7 @@
 (^|\.)cnzz\.com$
 (^|\.)cnzzlink\.com$
 (^|\.)cocounion\.com$
+(^|\.)coocaatv\.com$
 (^|\.)cooguo\.com$
 (^|\.)coolguang\.com$
 (^|\.)coremetrics\.com$
@@ -955,9 +955,9 @@
 (^|\.)epsilon\.com$
 (^|\.)exosrv\.com$
 (^|\.)fancyapi\.com$
+(^|\.)feitian001\.com$
 (^|\.)feixin2\.com$
 (^|\.)flashtalking\.com$
-(^|\.)fraudmetrix.cn
 (^|\.)fraudmetrix\.cn$
 (^|\.)gentags\.net$
 (^|\.)gepush\.com$
@@ -1035,7 +1035,7 @@
 (^|\.)miidi\.net$
 (^|\.)mijifen\.com$
 (^|\.)mixpanel\.com$
-(^|\.)mjmobi.com$
+(^|\.)mjmobi\.com$
 (^|\.)mng-ads\.com$
 (^|\.)moad\.cn$
 (^|\.)moatads\.com$
@@ -1192,6 +1192,7 @@
 (^|\.)zzsx8\.com$
 
 # 广告联盟-国外****************
+(^|\.)acuityplatform\.com$
 (^|\.)ad-stir\.com$
 (^|\.)ad-survey\.com$
 (^|\.)ad4game\.com$
@@ -1199,19 +1200,25 @@
 (^|\.)adcolony\.com$
 (^|\.)addthis\.com$
 (^|\.)adfurikun\.jp$
+(^|\.)adhigh\.net$
+(^|\.)adhood\.com$
 (^|\.)adinall\.com$
+(^|\.)adition\.com$
 (^|\.)adk2x\.com$
 (^|\.)admarket\.mobi$
 (^|\.)admarvel\.com$
 (^|\.)admedia\.com$
 (^|\.)adnxs\.com$
+(^|\.)adotmob\.com$
 (^|\.)adperium\.com$
 (^|\.)adriver\.ru$
 (^|\.)adroll\.com$
+(^|\.)adsco\.re$
 (^|\.)adservice\.com$
 (^|\.)adsrvr\.org$
 (^|\.)adsymptotic\.com$
 (^|\.)adtaily\.com$
+(^|\.)adtech\.de$
 (^|\.)adtechjp\.com$
 (^|\.)adtechus\.com$
 (^|\.)airpush\.com$
@@ -1226,23 +1233,34 @@
 (^|\.)axonix\.com$
 (^|\.)beintoo\.com$
 (^|\.)bepolite\.eu$
+(^|\.)bidtheatre\.com$
 (^|\.)bidvertiser\.com$
+(^|\.)blismedia\.com$
 (^|\.)brucelead\.com$
+(^|\.)bttrack\.com$
 (^|\.)casalemedia\.com$
 (^|\.)channeladvisor\.com$
+(^|\.)connexity\.net$
 (^|\.)criteo\.com$
 (^|\.)criteo\.net$
 (^|\.)csbew\.com$
+(^|\.)demdex\.net$
 (^|\.)directrev\.com$
 (^|\.)dumedia\.ru$
 (^|\.)effectivemeasure\.com$
 (^|\.)effectivemeasure\.net$
+(^|\.)eqads\.com$
+(^|\.)everesttech\.net$
 (^|\.)exoclick\.com$
+(^|\.)extend\.tv$
+(^|\.)eyereturn\.com$
 (^|\.)fastapi\.net$
 (^|\.)fastclick\.com$
 (^|\.)fastclick\.net$
+(^|\.)flurry\.com$
 (^|\.)gosquared\.com$
 (^|\.)gtags\.net$
+(^|\.)guomob\.com$
 (^|\.)heyzap\.com$
 (^|\.)histats\.com$
 (^|\.)hitslink\.com$
@@ -1251,7 +1269,9 @@
 (^|\.)i-mobile\.co\.jp$
 (^|\.)imrworldwide\.com$
 (^|\.)inmobi\.com$
+(^|\.)intentiq\.com$
 (^|\.)inter1ads\.com$
+(^|\.)ipredictive\.com$
 (^|\.)ironsrc\.com$
 (^|\.)iskyworker\.com$
 (^|\.)jizzads\.com$
@@ -1273,18 +1293,21 @@
 (^|\.)meetrics\.net$
 (^|\.)mgid\.com$
 (^|\.)millennialmedia\.com$
-(^|\.)moatads \.com$
 (^|\.)mobadme\.jp$
 (^|\.)mobfox\.com$
+(^|\.)mobileadtrading\.com$
 (^|\.)mobilityware\.com$
 (^|\.)mookie1\.com$
+(^|\.)msads\.net$
 (^|\.)mydas\.mobi$
 (^|\.)nend\.net$
 (^|\.)netshelter\.net$
 (^|\.)nexage\.com$
+(^|\.)owneriq\.net$
 (^|\.)pixels\.asia$
 (^|\.)plista\.com$
 (^|\.)popads\.net$
+(^|\.)powerlinks\.com$
 (^|\.)propellerads\.com$
 (^|\.)quantserve\.com$
 (^|\.)rayjump\.com$
@@ -1303,10 +1326,12 @@
 (^|\.)startappexchange\.com$
 (^|\.)statcounter\.com$
 (^|\.)steelhousemedia\.com$
+(^|\.)stickyadstv\.com$
 (^|\.)supersonic\.com$
 (^|\.)tapjoy\.com$
 (^|\.)tapjoyads\.com$
 (^|\.)trafficjunky\.com$
+(^|\.)tribalfusion\.com$
 (^|\.)turn\.com$
 (^|\.)vidoomy\.com$
 (^|\.)viglink\.com$
@@ -1315,6 +1340,7 @@
 (^|\.)yadro\.ru$
 (^|\.)yengo\.com$
 (^|\.)zedo\.com$
+(^|\.)zemanta\.com$
 
 # 垃圾网站
 (^|\.)11h5\.com$
@@ -1688,6 +1714,59 @@
 (^|\.)paragon\.com$
 (^|\.)unrealengine\.com$
 
+# Google China
+(^|\.)265\.com$
+(^|\.)2mdn\.net$
+(^|\.)alt[0-8]-mtalk\.google\.com$
+(^|\.)app-measurement\.com$
+(^|\.)beacons\.gcp\.gvt2\.com$
+(^|\.)beacons\.gvt2\.com$
+(^|\.)beacons3\.gvt2\.com$
+(^|\.)c\.android\.clients\.google\.com$
+(^|\.)cache\.pack\.google\.com$
+(^|\.)checkin\.gstatic\.com$
+(^|\.)clickserve\.dartsearch\.net$
+(^|\.)clientservices\.googleapis\.com$
+(^|\.)connectivitycheck\.gstatic\.com$
+(^|\.)crl\.pki\.goog$
+(^|\.)dl\.google\.com$
+(^|\.)dl\.l\.google\.com$
+(^|\.)fonts\.googleapis\.com$
+(^|\.)fonts\.gstatic\.com$
+(^|\.)googletagmanager\.com$
+(^|\.)googletagservices\.com$
+(^|\.)gtm\.oasisfeng\.com$
+(^|\.)imasdk\.googleapis\.com$
+(^|\.)kh\.google\.com$
+(^|\.)khm\.google\.com$
+(^|\.)khm\.googleapis\.com$
+(^|\.)khm0\.google\.com$
+(^|\.)khm0\.googleapis\.com$
+(^|\.)khm1\.google\.com$
+(^|\.)khm1\.googleapis\.com$
+(^|\.)khm2\.google\.com$
+(^|\.)khm2\.googleapis\.com$
+(^|\.)khm3\.google\.com$
+(^|\.)khm3\.googleapis\.com$
+(^|\.)khmdb\.google\.com$
+(^|\.)khmdb\.googleapis\.com$
+(^|\.)mtalk\.google\.com$
+(^|\.)ocsp\.pki\.goog$
+(^|\.)recaptcha\.net$
+(^|\.)redirector\.gvt1\.com$
+(^|\.)safebrowsing-cache\.google\.com$
+(^|\.)safebrowsing\.googleapis\.com$
+(^|\.)settings\.crashlytics\.com$
+(^|\.)ssl-google-analytics\.l\.google\.com$
+(^|\.)ssl\.gstatic\.com$
+(^|\.)toolbarqueries\.google\.com$
+(^|\.)tools\.google\.com$
+(^|\.)tools\.l\.google\.com$
+(^|\.)translate\.googleapis\.com$
+(^|\.)update\.googleapis\.com$
+(^|\.)www-googletagmanager\.l\.google\.com$
+(^|\.)www\.gstatic\.com$
+
 # HuaWei
 (^|\.)dbankcdn\.com$
 (^|\.)hc-cdn\.com$
@@ -1982,7 +2061,6 @@
 (^|\.)feng\.com$
 (^|\.)fengkongcloud\.com$
 (^|\.)fir\.im$
-(^|\.)firefox\.com$
 (^|\.)frdic\.com$
 (^|\.)fresh-ideas\.cc$
 (^|\.)ganji\.com$
@@ -2050,11 +2128,11 @@
 (^|\.)mogujie\.com$
 (^|\.)moji\.com$
 (^|\.)moke\.com$
-(^|\.)mozilla\.org$
 (^|\.)mubu\.com$
 (^|\.)myunlu\.com$
 (^|\.)nruan\.com$
 (^|\.)nuomi\.com$
+(^|\.)onedns\.net$
 (^|\.)onlinedown\.net$
 (^|\.)oracle\.com$
 (^|\.)oschina\.net$
@@ -2115,7 +2193,6 @@
 (^|\.)umengcloud\.com$
 (^|\.)upyun\.com$
 (^|\.)uxengine\.net$
-(^|\.)v2ex\.com$
 (^|\.)videocc\.net$
 (^|\.)vmware\.com$
 (^|\.)wandoujia\.com$
@@ -2168,29 +2245,22 @@
 (^|\.)hiwifi\.com$
 (^|\.)leike\.cc$
 (^|\.)miwifi\.com$
+(^|\.)my\.router$
 (^|\.)p\.to$
 (^|\.)peiluyou\.com$
 (^|\.)phicomm\.me$
 (^|\.)routerlogin\.com$
 (^|\.)tendawifi\.com$
 (^|\.)zte\.home$
+(^|\.)router\.asus\.com$
 
 ::ffff:0:0:0:0/1
 ::ffff:128:0:0:0/1
-0.0.0.0/8
 10.0.0.0/8
 100.64.0.0/10
 127.0.0.0/8
-169.254.0.0/16
 172.16.0.0/12
-192.0.0.0/29
-192.0.2.0/24
-192.88.99.0/24
 192.168.0.0/16
-198.18.0.0/15
-198.51.100.0/24
-203.0.113.0/24
-224.0.0.0/3
 
 # 中国云服务商ip端
 # 阿里
@@ -2499,11 +2569,12 @@
 1.192.0.0/13
 1.202.0.0/15
 1.204.0.0/14
+2.20.54.23/32
 8.128.0.0/10
 8.209.36.0/22
 8.209.40.0/21
 8.209.48.0/20
-8.209.128.0/17
+8.209.192.0/18
 8.210.0.0/15
 8.212.0.0/14
 8.216.0.0/13
@@ -2526,6 +2597,7 @@
 14.196.0.0/15
 14.204.0.0/15
 14.208.0.0/12
+20.81.0.0/24
 20.134.160.0/20
 20.139.160.0/20
 20.249.255.0/24
@@ -3367,7 +3439,6 @@
 61.236.0.0/15
 61.240.0.0/14
 62.234.0.0/16
-64.85.27.0/24
 68.79.0.0/18
 69.230.192.0/18
 69.231.128.0/18
@@ -3380,8 +3451,11 @@
 72.163.240.0/23
 72.163.248.0/22
 81.68.0.0/14
+81.161.63.0/24
 82.156.0.0/15
 87.254.207.0/24
+91.223.53.0/24
+91.239.190.0/24
 93.183.14.0/24
 93.183.18.0/24
 94.191.0.0/17
@@ -4351,7 +4425,8 @@
 103.114.68.0/22
 103.114.100.0/22
 103.114.148.0/22
-103.114.156.0/22
+103.114.156.0/23
+103.114.159.0/24
 103.114.212.0/22
 103.114.236.0/22
 103.114.240.0/22
@@ -4384,7 +4459,7 @@
 103.119.156.0/22
 103.119.180.0/22
 103.119.200.0/22
-103.119.226.0/23
+103.119.224.0/22
 103.120.52.0/22
 103.120.72.0/22
 103.120.76.0/24
@@ -4480,7 +4555,6 @@
 103.139.212.0/23
 103.140.14.0/23
 103.140.46.0/23
-103.140.70.0/23
 103.140.140.0/23
 103.140.144.0/23
 103.140.192.0/23
@@ -4511,7 +4585,6 @@
 103.143.132.0/22
 103.143.174.0/23
 103.143.228.0/23
-103.144.40.0/23
 103.144.66.0/23
 103.144.70.0/23
 103.144.72.0/23
@@ -4520,7 +4593,6 @@
 103.145.40.0/22
 103.145.73.0/24
 103.145.80.0/23
-103.145.86.0/23
 103.145.90.0/23
 103.145.92.0/22
 103.145.98.0/23
@@ -4528,14 +4600,15 @@
 103.145.188.0/23
 103.146.6.0/23
 103.146.72.0/23
-103.146.88.0/22
+103.146.90.0/23
 103.146.126.0/23
 103.146.138.0/23
-103.146.230.0/23
 103.146.236.0/23
 103.146.252.0/23
-103.147.12.0/23
 103.147.124.0/23
+103.147.198.0/23
+103.147.206.0/23
+103.148.174.0/23
 103.192.0.0/19
 103.192.48.0/21
 103.192.56.0/22
@@ -5345,7 +5418,21 @@
 115.148.0.0/14
 115.152.0.0/13
 115.166.64.0/19
-115.168.0.0/13
+115.168.0.0/16
+115.169.0.0/23
+115.169.3.0/24
+115.169.6.0/24
+115.169.9.0/24
+115.169.14.0/23
+115.169.16.0/20
+115.169.39.0/24
+115.169.42.0/23
+115.169.44.0/22
+115.169.48.0/20
+115.169.64.0/18
+115.169.128.0/17
+115.170.0.0/15
+115.172.0.0/14
 115.180.0.0/14
 115.187.0.0/20
 115.190.0.0/15
@@ -5927,7 +6014,7 @@
 124.68.244.0/23
 124.68.254.0/23
 124.69.0.0/16
-124.70.0.0/22
+124.70.0.0/15
 124.72.0.0/13
 124.88.0.0/13
 124.108.8.0/21
@@ -6002,6 +6089,7 @@
 129.211.0.0/16
 129.223.254.0/24
 129.227.99.0/24
+130.36.146.0/23
 130.214.218.0/23
 131.228.96.0/24
 131.253.12.0/29
@@ -6026,6 +6114,7 @@
 139.5.244.0/22
 139.9.0.0/16
 139.129.0.0/16
+139.138.238.0/28
 139.148.0.0/16
 139.155.0.0/16
 139.159.0.0/19
@@ -6168,8 +6257,6 @@
 150.242.248.0/22
 150.255.0.0/16
 152.32.178.0/23
-152.32.249.0/24
-152.32.255.0/24
 152.104.128.0/17
 152.136.0.0/16
 153.0.0.0/16
@@ -6281,6 +6368,7 @@
 171.104.0.0/13
 171.112.0.0/12
 171.208.0.0/12
+172.60.2.0/24
 172.81.192.0/18
 173.39.200.0/23
 175.0.0.0/12
@@ -6429,7 +6517,6 @@
 183.192.0.0/10
 185.109.236.0/24
 185.216.118.0/24
-185.224.116.0/22
 188.131.128.0/17
 192.11.23.0/24
 192.11.26.0/24
@@ -6453,6 +6540,7 @@
 192.144.128.0/17
 192.163.11.0/24
 192.232.97.0/24
+193.9.22.0/24
 193.17.120.0/22
 193.20.64.0/22
 193.112.0.0/16
@@ -6584,7 +6672,6 @@
 202.27.12.0/24
 202.27.14.0/24
 202.27.136.0/23
-202.30.124.0/24
 202.36.226.0/24
 202.38.0.0/22
 202.38.8.0/21
@@ -7128,7 +7215,8 @@
 203.15.156.0/22
 203.15.174.0/24
 203.15.227.0/24
-203.15.232.0/21
+203.15.232.0/22
+203.15.238.0/23
 203.15.240.0/23
 203.15.246.0/24
 203.16.10.0/24
@@ -7229,7 +7317,6 @@
 203.20.122.0/24
 203.20.126.0/23
 203.20.135.0/24
-203.20.138.0/23
 203.20.140.0/22
 203.20.150.0/24
 203.20.230.0/24
@@ -8103,8 +8190,8 @@
 220.242.173.0/24
 220.242.197.0/24
 220.242.205.0/24
-220.242.206.0/23
-220.242.214.0/23
+220.242.207.0/24
+220.242.215.0/24
 220.242.216.0/21
 220.242.224.0/19
 220.243.0.0/17
@@ -8237,11 +8324,17 @@
 (^|\.)ping\.pe$
 (^|\.)reddit\.com$
 (^|\.)teddysun\.com$
+(^|\.)textnow\.com$
 (^|\.)tumbex\.com$
 (^|\.)twdvd\.com$
 (^|\.)unsplash\.com$
 (^|\.)xn--i2ru8q2qg\.com$
 (^|\.)yunpanjingling\.com$
+(^|\.)ec2-54-210-142-85\.computer-1\.amazonaws\.com$
+(^|\.)ec2-54-174-24-124\.computer-1\.amazonaws\.com$
+(^|\.)ec2-54-174-178-70\.computer-1\.amazonaws\.com$
+(^|\.)ec2-54-175-2-194\.computer-1\.amazonaws\.com$
+(^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$
 
 # 国外域名
 ^.*\.hk$
@@ -8354,7 +8447,6 @@
 (^|\.)periscope\.tv$
 (^|\.)pinimg\.com$
 (^|\.)pinterest\.com$
-(^|\.)pixiv\.net$
 (^|\.)potato\.im$
 (^|\.)prfct\.co$
 (^|\.)pscp\.tv$
@@ -8380,6 +8472,7 @@
 (^|\.)tumblr\.com$
 (^|\.)tvb\.com$
 (^|\.)txmblr\.com$
+(^|\.)v2ex\.com$
 (^|\.)vimeo\.com$
 (^|\.)vine\.co$
 (^|\.)vox-cdn\.com$
@@ -8450,19 +8543,22 @@
 (^|\.)1e100\.net$
 (^|\.)2mdn\.net$
 (^|\.)app-measurement\.net$
+(^|\.)g\.co$
 (^|\.)ggpht\.com$
+(^|\.)goo\.gl$
 (^|\.)googleapis\.cn$
 (^|\.)googleapis\.com$
 (^|\.)gstatic\.cn$
 (^|\.)gstatic\.com$
-(^|\.)g\.co$
-(^|\.)goo\.gl$
 (^|\.)gvt0\.com$
 (^|\.)gvt1\.com$
+(^|\.)gvt2\.com$
+(^|\.)gvt3\.com$
 (^|\.)xn--ngstr-lra8j\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$
 (^|\.)youtube\.com$
+(^|\.)yt\.be$
 (^|\.)ytimg\.com$
 8.8.8.8
 8.8.4.4
@@ -8594,17 +8690,18 @@
 (^|\.)yammer\.com$
 (^|\.)yammerusercontent\.com$
 
-# Netflix & MytvSUPER
+# MytvSUPER
 (^|\.)\w*nowtv100\w*\.\w*$
 (^|\.)\w*rthklive\w*\.\w*$
 (^|\.)mytvsuper\.com$
+
+# Netflix
 (^|\.)netflix\.com$
 (^|\.)netflix\.net$
 (^|\.)nflxext\.com$
 (^|\.)nflximg\.com$
 (^|\.)nflximg\.net$
 (^|\.)nflxvideo\.net$
-(^|\.)tvb\.com$
 8.41.4.0/24
 23.246.0.0/18
 37.77.184.0/21
@@ -8619,7 +8716,11 @@
 198.38.96.0/19
 198.45.48.0/20
 207.45.72.0/22
-208.75.76.0/24
+208.75.76.0/22
+
+# Pixiv
+(^|\.)pixiv\.net$
+(^|\.)pximg\.net$
 
 # ResiloSync
 (^|\.)config\.getsync\.com$

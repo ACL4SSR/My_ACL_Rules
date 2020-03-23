@@ -1,6 +1,6 @@
 #**********************************************************************
-# 02.23
-# 2020年2月23日18:22:39
+# 03.07
+# 2020年3月7日19:36:14
 # 转载需要注明版权和来源
 # 全部规则来自GFWList 没有白名单
 #
@@ -29,6 +29,7 @@
 (^|\.)ping\.pe$
 (^|\.)reddit\.com$
 (^|\.)teddysun\.com$
+(^|\.)textnow\.com$
 (^|\.)tumbex\.com$
 (^|\.)twdvd\.com$
 (^|\.)unsplash\.com$
@@ -5892,19 +5893,22 @@
 (^|\.)1e100\.net$
 (^|\.)2mdn\.net$
 (^|\.)app-measurement\.net$
+(^|\.)g\.co$
 (^|\.)ggpht\.com$
+(^|\.)goo\.gl$
 (^|\.)googleapis\.cn$
 (^|\.)googleapis\.com$
 (^|\.)gstatic\.cn$
 (^|\.)gstatic\.com$
-(^|\.)g\.co$
-(^|\.)goo\.gl$
 (^|\.)gvt0\.com$
 (^|\.)gvt1\.com$
+(^|\.)gvt2\.com$
+(^|\.)gvt3\.com$
 (^|\.)xn--ngstr-lra8j\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$
 (^|\.)youtube\.com$
+(^|\.)yt\.be$
 (^|\.)ytimg\.com$
 74.125.0.0/16
 173.194.0.0/16
@@ -6034,17 +6038,18 @@
 (^|\.)yammer\.com$
 (^|\.)yammerusercontent\.com$
 
-# Netflix & MytvSUPER
+# MytvSUPER
 (^|\.)\w*nowtv100\w*\.\w*$
 (^|\.)\w*rthklive\w*\.\w*$
 (^|\.)mytvsuper\.com$
+
+# Netflix
 (^|\.)netflix\.com$
 (^|\.)netflix\.net$
 (^|\.)nflxext\.com$
 (^|\.)nflximg\.com$
 (^|\.)nflximg\.net$
 (^|\.)nflxvideo\.net$
-(^|\.)tvb\.com$
 8.41.4.0/24
 23.246.0.0/18
 37.77.184.0/21
@@ -6059,7 +6064,11 @@
 198.38.96.0/19
 198.45.48.0/20
 207.45.72.0/22
-208.75.76.0/24
+208.75.76.0/22
+
+# Pixiv
+(^|\.)pixiv\.net$
+(^|\.)pximg\.net$
 
 # ResiloSync
 (^|\.)config\.getsync\.com$

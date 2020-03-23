@@ -1,0 +1,36 @@
+name: Purge CDN Cache
+
+on: 
+  push:
+    branches:
+      - master
+  # schedule:
+  #   - cron:  '0 */6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Tar and Hash
+      run: |
+        tar -cvf git.tar *.acl
+        echo "::set-env name=GITMD5::`md5sum git.tar | awk '{ print $1 }'`"
+        rm -rf git.tar
+
+    - name: Set up Python 2.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 2.7
+
+    - name: Get Script
+      run: |
+        wget https://gist.github.com/BROBIRD/7afe1060444d7e257af82dcc92fed7f1/raw/purge.py
+        wget https://gist.github.com/BROBIRD/c18f6310b2a8c4f3b89125fcc38a6c74/raw/jsdelivr_dl.py
+        pip install requests
+        chmod +x purge.py jsdelivr_dl.py
+        
+    - name: Run Python Script
+      run: python purge.py
