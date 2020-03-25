@@ -1,6 +1,6 @@
 #**********************************************************************
-# 03.14
-# 2020年3月14日23:54:00
+# 03.25
+# 2020年3月25日22:39:16
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -55,7 +55,6 @@
 (^|\.)\w*socdm\w*\.\w*$
 (^|\.)\w*supersonicads\w*\.\w*$
 (^|\.)\w*tracking\w*\.\w*$
-(^|\.)\w*traffic\w*\.\w*$
 (^|\.)\w*uedas\w*\.\w*$
 (^|\.)\w*usage\w*\.\w*$
 (^|\.)\w*wlmonitor\w*\.\w*$
@@ -1945,18 +1944,21 @@
 (^|\.)zmzapi\.net$
 (^|\.)zmzfile\.com$
 
-# Private Tracker$
+# Private Tracker
+(^|\.)animetorrents\.me$
 (^|\.)awesome-hd\.me$
 (^|\.)beitai\.pt$
-(^|\.)bittorrent\.com$
 (^|\.)broadcasthe\.net$
 (^|\.)chdbits\.co$
 (^|\.)classix-unlimited\.co\.uk$
 (^|\.)empornium\.me$
 (^|\.)gazellegames\.net$
+(^|\.)hd4fans\.org$
 (^|\.)hdchina\.org$
+(^|\.)hdhome\.org$
 (^|\.)hdsky\.me$
 (^|\.)hdtime\.org$
+(^|\.)hdzone\.me$
 (^|\.)icetorrent\.org$
 (^|\.)jpopsuki\.eu$
 (^|\.)keepfrds\.com$
