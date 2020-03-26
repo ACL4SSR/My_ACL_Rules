@@ -24,8 +24,3 @@ IP-CIDR,118.24.63.156/32
 IP-CIDR,193.112.159.225/32
 IP-CIDR,223.252.199.66/32
 IP-CIDR,223.252.199.67/32
-# Advertising
-#DOMAIN,admusicpic.music.126.net
-#DOMAIN,iadmat.nosdn.127.net
-#DOMAIN,iadmusicmat.music.126.net
-#DOMAIN,iadmusicmatvideo.music.126.net
