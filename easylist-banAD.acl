@@ -1,6 +1,6 @@
 #**********************************************************************
-# 04.11
-# 2020年4月11日15:27:25
+# 04.15
+# 2020年4月15日21:18:34
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -1519,7 +1519,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9183条
+# 数量：9206条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -1666,7 +1666,6 @@
 (^|\.)12\.cookcai\.com$
 (^|\.)12086\.net$
 (^|\.)1224\.dxsbb\.com$
-(^|\.)123\.39jz\.com$
 (^|\.)12306media\.com$
 (^|\.)123456\.asia$
 (^|\.)12365chia\.com$
@@ -1827,6 +1826,7 @@
 (^|\.)38taobao\.com$
 (^|\.)38ursg\.cn$
 (^|\.)394b8b41ac5305d\.com$
+(^|\.)39jz\.com$
 (^|\.)39xc\.net$
 (^|\.)3amall\.cn$
 (^|\.)3djd3\.xyz$
@@ -1844,6 +1844,7 @@
 (^|\.)3vn52l\.cn$
 (^|\.)3wdf4\.xyz$
 (^|\.)3xx\.vip$
+(^|\.)3y6c\.cn$
 (^|\.)3ygww\.com$
 (^|\.)4006825178\.com$
 (^|\.)40ic\.cn$
@@ -1929,11 +1930,13 @@
 (^|\.)5pub\.com$
 (^|\.)5q80n\.cn$
 (^|\.)5rxk\.cn$
+(^|\.)5t4o\.cn$
 (^|\.)5tbiec\.cn$
 (^|\.)5x0f\.cn$
 (^|\.)5y9nfpes\.52pk\.com$
 (^|\.)5yv2e\.cn$
 (^|\.)5yw4n\.cn$
+(^|\.)5zi2\.top$
 (^|\.)605296\.com$
 (^|\.)60608787\.com$
 (^|\.)606w\.cn$
@@ -3011,6 +3014,7 @@
 (^|\.)bd3\.chuiyue\.com$
 (^|\.)bdad\.gaotie\.net$
 (^|\.)bdaor\.com$
+(^|\.)bdasd\.chdbook\.cn$
 (^|\.)bdasd\.chinabig\.com\.cn$
 (^|\.)bdasd\.wmxa\.cn$
 (^|\.)bdcm\.kandianla\.com$
@@ -4040,6 +4044,7 @@
 (^|\.)dc\.letv\.com$
 (^|\.)dcaij\.com$
 (^|\.)dccss\.banggood\.com$
+(^|\.)dcdvie\.cn$
 (^|\.)dceni\.com$
 (^|\.)dcnqcql\.cn$
 (^|\.)dcontonalscho\.info$
@@ -4186,6 +4191,7 @@
 (^|\.)dmp\.marketgid\.com$
 (^|\.)dmpcdn\.el-mundo\.net$
 (^|\.)dmpsj\.cn$
+(^|\.)dmqapp\.com$
 (^|\.)dmr\.cnhoney\.com$
 (^|\.)dmtrack\.xiu\.com$
 (^|\.)dmtracking\.1688\.com$
@@ -4406,6 +4412,7 @@
 (^|\.)ef\.futuroscope\.com$
 (^|\.)ef\.futuroscope\.mobi$
 (^|\.)effectionerew\.site$
+(^|\.)effectionothere\.site$
 (^|\.)effectivelyreport\.com$
 (^|\.)eforeantheirma\.info$
 (^|\.)egjq\.com\.cn$
@@ -4719,6 +4726,7 @@
 (^|\.)fkogs\.com$
 (^|\.)flashstats\.libsyn\.com$
 (^|\.)flowcodeapp\.com$
+(^|\.)flowertt\.com$
 (^|\.)flowwiththetide\.xyz$
 (^|\.)fm6w\.com$
 (^|\.)fninin\.cn$
@@ -5078,6 +5086,7 @@
 (^|\.)gongfanglong\.cn$
 (^|\.)gontent\.steamplay\.me$
 (^|\.)goodgz\.cn$
+(^|\.)goodwold\.top$
 (^|\.)google-analytics\.com/batch$
 (^|\.)google-analytics\.com/internal/collect$
 (^|\.)google-analytics\.com/r/collect$
@@ -5818,6 +5827,7 @@
 (^|\.)jingoulong\.cn$
 (^|\.)jingxiangyalvji\.cn$
 (^|\.)jinhonghao\.cn$
+(^|\.)jinrungroup\.cn$
 (^|\.)jinshasi\.cn$
 (^|\.)jinsoopt\.net$
 (^|\.)jintonghua\.com$
@@ -6457,6 +6467,7 @@
 (^|\.)lygshgj\.com$
 (^|\.)lyhdream\.com$
 (^|\.)lyjz001\.com$
+(^|\.)lylfj\.cn$
 (^|\.)lylibertleveni\.site$
 (^|\.)lymstsc\.com$
 (^|\.)lynormationpas\.info$
@@ -6505,6 +6516,7 @@
 (^|\.)magnificohec\.site$
 (^|\.)magnify360-cdn\.s3\.amazonaws\.com$
 (^|\.)maibahe300cc\.com$
+(^|\.)maicaoren\.cn$
 (^|\.)maihaimo\.com$
 (^|\.)mainbx\.com$
 (^|\.)maipoted\.com$
@@ -7215,6 +7227,7 @@
 (^|\.)pabhagivene\.site$
 (^|\.)padpitnon\.site$
 (^|\.)padsabz\.com$
+(^|\.)padsanz\.com$
 (^|\.)padsatz\.com$
 (^|\.)padsbrown\.com$
 (^|\.)padsecs\.com$
@@ -7260,6 +7273,7 @@
 (^|\.)pass\.1688\.com$
 (^|\.)passport\.pfn\.bz$
 (^|\.)passwz\.com$
+(^|\.)pattentinevec\.site$
 (^|\.)paula-secundinus\.com$
 (^|\.)paveralleycoun\.info$
 (^|\.)pay838\.com$
@@ -7326,6 +7340,7 @@
 (^|\.)pics\.xgo-img\.com\.cn$
 (^|\.)picsinfog\.com$
 (^|\.)pieaa\.com$
+(^|\.)pigaimhop\.com$
 (^|\.)piginkdos\.com$
 (^|\.)piliangzhuce\.cn$
 (^|\.)pincidao\.cn$
@@ -8206,6 +8221,7 @@
 (^|\.)softxbutt\.com$
 (^|\.)sohu999\.com$
 (^|\.)sokoyo-fq\.com$
+(^|\.)solicensusuntf\.site$
 (^|\.)somniture\.theglobeandmail\.com$
 (^|\.)somode\.net$
 (^|\.)sonomoyo\.com$
@@ -8498,6 +8514,7 @@
 (^|\.)stats\.eyeviewdigital\.com$
 (^|\.)stats\.fd\.nl$
 (^|\.)stats\.fittkaumaass\.de$
+(^|\.)stats\.fomo\.com$
 (^|\.)stats\.frankfurterneuepresse\.de$
 (^|\.)stats\.fs\.com$
 (^|\.)stats\.geegain\.com$
@@ -9341,8 +9358,10 @@
 (^|\.)tsyndolls\.com$
 (^|\.)tt\.biquge\.la$
 (^|\.)tt123\.eastday\.com$
+(^|\.)ttauri\.creativebloq\.com$
 (^|\.)ttauri\.laptopmag\.com$
 (^|\.)ttauri\.livescience\.com$
+(^|\.)ttauri\.loudersound\.com$
 (^|\.)ttauri\.tomsguide\.com$
 (^|\.)ttauri\.tomshardware\.com$
 (^|\.)ttauri\.whathifi\.com$
@@ -10079,9 +10098,11 @@
 (^|\.)xmsqz\.com$
 (^|\.)xmtsyg\.com$
 (^|\.)xmxxwl\.com$
+(^|\.)xn--2qu96gouvko1a\.com$
 (^|\.)xn--2qux23c9ziyrq\.icu$
 (^|\.)xn--2qux23confgml\.club$
 (^|\.)xn--2quz8f01ak10c\.shop$
+(^|\.)xn--czrshy5v7kb\.cc$
 (^|\.)xn--fjqz50cv5q3so\.ltd$
 (^|\.)xn--fjqz50cv5q3so\.online$
 (^|\.)xn--i6qs37am6iwyqffc\.com$
@@ -10118,6 +10139,7 @@
 (^|\.)xroun\.com$
 (^|\.)xrpva\.cn$
 (^|\.)xs\.houyi\.baofeng\.net$
+(^|\.)xsdlq\.cn$
 (^|\.)xsyouwei\.cn$
 (^|\.)xt2d\.cn$
 (^|\.)xt725\.cn$
@@ -10514,6 +10536,7 @@
 (^|\.)zi63m\.cn$
 (^|\.)ziig\.com\.cn$
 (^|\.)zilzolachi\.com$
+(^|\.)zimingdh\.com$
 (^|\.)zinlar\.pw$
 (^|\.)zinovila\.com$
 (^|\.)zion\.api\.cnn\.io$
@@ -10710,7 +10733,6 @@
 
 # MyList
 (^|\.)423down\.com$
-(^|\.)bitwarden\.com$
 (^|\.)chaipip\.com$
 (^|\.)hrtsea\.com$
 (^|\.)laomo\.me$
@@ -10850,17 +10872,31 @@
 
 # ByteDance
 (^|\.)bytedance\.com$
+(^|\.)bytedance\.net$
+(^|\.)bytedns\.net$
+(^|\.)byteimg\.com$
 (^|\.)feiliao\.com$
 (^|\.)gifshow\.com$
 (^|\.)huoshan\.com$
 (^|\.)iesdouyin\.com$
 (^|\.)ixigua\.com$
-(^|\.)kaishou\.com$
 (^|\.)kspkg\.com$
 (^|\.)pstatp\.com$
 (^|\.)snssdk\.com$
 (^|\.)toutiao\.com$
+(^|\.)toutiao13\.com$
+(^|\.)toutiaocdn\.com$
+(^|\.)toutiaocdn\.net$
+(^|\.)toutiaocloud\.com$
+(^|\.)toutiaohao\.com$
+(^|\.)toutiaohao\.net$
+(^|\.)toutiaoimg\.com$
+(^|\.)toutiaopage\.com$
+(^|\.)wukong\.com$
 (^|\.)yximgs\.com$
+(^|\.)zijieimg\.com$
+(^|\.)zjbyte\.com$
+(^|\.)zjcdn\.com$
 
 # CCTV
 (^|\.)cctv\.com$
