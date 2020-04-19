@@ -1,6 +1,6 @@
 #**********************************************************************
-# 04.15
-# 2020年4月15日21:18:34
+# 04.18
+# 2020年4月18日 20:28:30
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -1689,7 +1689,6 @@
 (^|\.)toutiaoimg\.com$
 (^|\.)toutiaopage\.com$
 (^|\.)wukong\.com$
-(^|\.)yximgs\.com$
 (^|\.)zijieimg\.com$
 (^|\.)zjbyte\.com$
 (^|\.)zjcdn\.com$
@@ -1758,6 +1757,10 @@
 (^|\.)iciba\.com$
 (^|\.)ksosoft\.com$
 (^|\.)ksyun\.com$
+
+# Kuaishou 快手
+(^|\.)kuaishou\.com$
+(^|\.)yximgs\.com$
 
 # Meitu
 (^|\.)meitu\.com$
@@ -8407,7 +8410,6 @@
 (^|\.)\w*youtube\w*\.\w*$
 
 #GFWList
-(^|\.)(.*)2\.bahamut\.com\.tw$
 (^|\.)030buy\.com$
 (^|\.)0rz\.tw$
 (^|\.)1000giri\.net$
@@ -10813,7 +10815,6 @@
 (^|\.)hkgreenradio\.org$
 (^|\.)hk\.hao123img\.com$
 (^|\.)hkheadline\.com$
-(^|\.)hkheadline\.comblog$
 (^|\.)hkhkhk\.com$
 (^|\.)hkhrc\.org\.hk$
 (^|\.)hkhrm\.org\.hk$

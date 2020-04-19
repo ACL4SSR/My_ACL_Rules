@@ -1519,7 +1519,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9206条
+# 数量：9225条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -2256,6 +2256,7 @@
 (^|\.)abgligarchan\.com$
 (^|\.)abie10\.top$
 (^|\.)abie11\.top$
+(^|\.)abie25\.top$
 (^|\.)abie9\.top$
 (^|\.)abroadlynijiz\.site$
 (^|\.)abrsamar\.com$
@@ -2580,6 +2581,7 @@
 (^|\.)analytics\.arz\.at$
 (^|\.)analytics\.atomiconline\.com$
 (^|\.)analytics\.audioeye\.com$
+(^|\.)analytics\.audionow\.de$
 (^|\.)analytics\.avanser\.com\.au$
 (^|\.)analytics\.aweber\.com$
 (^|\.)analytics\.belgacom\.be$
@@ -3004,6 +3006,7 @@
 (^|\.)bd1\.dopa\.com$
 (^|\.)bd1\.flfgw\.cn$
 (^|\.)bd1\.jinbaozy\.com$
+(^|\.)bd1\.ningboseo0574\.com$
 (^|\.)bd1\.pipaw\.com$
 (^|\.)bd1\.qcjslm\.com$
 (^|\.)bd1\.sosg\.net$
@@ -3166,6 +3169,7 @@
 (^|\.)bjzcbx\.com$
 (^|\.)bk9gun\.vpser\.net$
 (^|\.)bkyhq\.cn$
+(^|\.)bkzisok\.cn$
 (^|\.)bl\.wavecdn\.de$
 (^|\.)bl0uxepb4o\.com$
 (^|\.)bla01\.com$
@@ -3725,6 +3729,7 @@
 (^|\.)cookiex\.ngd\.yahoo\.com$
 (^|\.)coolertracks\.emailroi\.com$
 (^|\.)coolpadrom\.cn$
+(^|\.)cooltool\.cc$
 (^|\.)cooolyi\.cn$
 (^|\.)corechina\.net$
 (^|\.)cornplus\.cn$
@@ -4415,6 +4420,7 @@
 (^|\.)effectionothere\.site$
 (^|\.)effectivelyreport\.com$
 (^|\.)eforeantheirma\.info$
+(^|\.)eg-p2\.eurogamer\.net$
 (^|\.)egjq\.com\.cn$
 (^|\.)egolina\.com$
 (^|\.)egqiyw\.com$
@@ -5027,6 +5033,7 @@
 (^|\.)ggz55268\.com$
 (^|\.)ghnmg\.top$
 (^|\.)ghosttty\.cn$
+(^|\.)gigbyefly\.com$
 (^|\.)gilzana\.pw$
 (^|\.)giroud\.top$
 (^|\.)gitoku\.com$
@@ -5064,7 +5071,9 @@
 (^|\.)gmxyorg\.cn$
 (^|\.)gnar\.grammarly\.com$
 (^|\.)gnativestreesaga\.site$
+(^|\.)gneusqa\.cn$
 (^|\.)gnmbd\.top$
+(^|\.)gnncc\.cc$
 (^|\.)go\.hangzhou\.com\.cn$
 (^|\.)go\.optifuze\.com$
 (^|\.)go\.pornav\.net$
@@ -5218,6 +5227,8 @@
 (^|\.)hadsecz\.com$
 (^|\.)hadsipz\.com$
 (^|\.)hadskiz\.com$
+(^|\.)hadslims\.com$
+(^|\.)hadsoks\.com$
 (^|\.)haftobso\.net$
 (^|\.)haimaokj\.com$
 (^|\.)hainufamliy\.top$
@@ -6020,6 +6031,7 @@
 (^|\.)keighleynews-gb\.keighleynews\.co\.uk$
 (^|\.)kele4\.com$
 (^|\.)kelris\.pw$
+(^|\.)kenfeeask\.com$
 (^|\.)ketaoke\.com$
 (^|\.)ketstheralinver\.info$
 (^|\.)kexigia\.com$
@@ -6045,6 +6057,7 @@
 (^|\.)khufaw2\.com$
 (^|\.)khuoy\.com$
 (^|\.)kicnse\.com$
+(^|\.)kikoucuy\.net$
 (^|\.)kiks\.auto\.ru$
 (^|\.)kilin\.xyz$
 (^|\.)kilomansa\.com$
@@ -6175,6 +6188,7 @@
 (^|\.)laiye315\.top$
 (^|\.)laksdn\.com$
 (^|\.)lala-my\.club$
+(^|\.)lalaping\.com$
 (^|\.)lamwatch\.com$
 (^|\.)langchars\.com$
 (^|\.)lanhouhou\.cn$
@@ -7103,6 +7117,7 @@
 (^|\.)oimg\.mobile\.cnbc\.com$
 (^|\.)oir85\.cn$
 (^|\.)oiwjcsh001\.top$
+(^|\.)oiwjcsh010\.top$
 (^|\.)ojm4\.palladiumhotelgroup\.com$
 (^|\.)ojues\.com$
 (^|\.)ok\.432kkk\.com$
@@ -7117,6 +7132,7 @@
 (^|\.)olc0\.cn$
 (^|\.)olicyconsendsi\.info$
 (^|\.)olmall\.vip$
+(^|\.)olmsoneenh\.info$
 (^|\.)olmvkq\.cn$
 (^|\.)ololen\.pw$
 (^|\.)oloniansyello\.site$
@@ -7222,6 +7238,7 @@
 (^|\.)p1\.zhumengwl\.com$
 (^|\.)p3tt\.com$
 (^|\.)p4p\.sina\.com\.cn$
+(^|\.)p6p2w3v92czo\.com$
 (^|\.)p74\.cc$
 (^|\.)p8u\.hinet\.net$
 (^|\.)pabhagivene\.site$
@@ -7397,6 +7414,7 @@
 (^|\.)pixel\.newscgp\.com$
 (^|\.)pixel\.newscred\.com$
 (^|\.)pixel\.newsdiscover\.com\.au$
+(^|\.)pixel\.parsely\.com$
 (^|\.)pixel\.pcworld\.com$
 (^|\.)pixel\.propublica\.org$
 (^|\.)pixel\.prosieben\.de$
@@ -10098,6 +10116,7 @@
 (^|\.)xmsqz\.com$
 (^|\.)xmtsyg\.com$
 (^|\.)xmxxwl\.com$
+(^|\.)xn--2qu92fhtx4ff\.ink$
 (^|\.)xn--2qu96gouvko1a\.com$
 (^|\.)xn--2qux23c9ziyrq\.icu$
 (^|\.)xn--2qux23confgml\.club$
@@ -10893,7 +10912,6 @@
 (^|\.)toutiaoimg\.com$
 (^|\.)toutiaopage\.com$
 (^|\.)wukong\.com$
-(^|\.)yximgs\.com$
 (^|\.)zijieimg\.com$
 (^|\.)zjbyte\.com$
 (^|\.)zjcdn\.com$
@@ -11014,6 +11032,10 @@
 (^|\.)iciba\.com$
 (^|\.)ksosoft\.com$
 (^|\.)ksyun\.com$
+
+# Kuaishou 快手
+(^|\.)kuaishou\.com$
+(^|\.)yximgs\.com$
 
 # Meitu
 (^|\.)meitu\.com$

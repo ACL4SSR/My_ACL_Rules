@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-04-15 21:18:09
-# 数量：2546条
+# 更新：2020-04-18 13:12:47
+# 数量：2549条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -101,6 +101,7 @@ DOMAIN-SUFFIX,analytics.archive.org
 DOMAIN-SUFFIX,analytics.arz.at
 DOMAIN-SUFFIX,analytics.atomiconline.com
 DOMAIN-SUFFIX,analytics.audioeye.com
+DOMAIN-SUFFIX,analytics.audionow.de
 DOMAIN-SUFFIX,analytics.avanser.com.au
 DOMAIN-SUFFIX,analytics.aweber.com
 DOMAIN-SUFFIX,analytics.belgacom.be
@@ -765,6 +766,7 @@ DOMAIN-SUFFIX,edw.edmunds.com
 DOMAIN-SUFFIX,eec.crunchyroll.com
 DOMAIN-SUFFIX,ef.futuroscope.com
 DOMAIN-SUFFIX,ef.futuroscope.mobi
+DOMAIN-SUFFIX,eg-p2.eurogamer.net
 DOMAIN-SUFFIX,ek8.voyage-prive.com
 DOMAIN-SUFFIX,ekg.riotgames.com
 DOMAIN-SUFFIX,elr.sfr.fr
@@ -1423,6 +1425,7 @@ DOMAIN-SUFFIX,pixel.naij.com
 DOMAIN-SUFFIX,pixel.newscgp.com
 DOMAIN-SUFFIX,pixel.newscred.com
 DOMAIN-SUFFIX,pixel.newsdiscover.com.au
+DOMAIN-SUFFIX,pixel.parsely.com
 DOMAIN-SUFFIX,pixel.pcworld.com
 DOMAIN-SUFFIX,pixel.propublica.org
 DOMAIN-SUFFIX,pixel.prosieben.de

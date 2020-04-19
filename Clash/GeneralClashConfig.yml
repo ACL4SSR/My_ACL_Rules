@@ -128,6 +128,22 @@ Rule:
 cfw-latency-timeout: 3000
 cfw-latency-url: http://www.gstatic.com/generate_204
 
+# 方便在多个配置文件中加入内容
+#cfw-profile-mixin:
+  #dns:
+    #enable: true
+    #listen: :53
+    #enhanced-mode: fake-ip
+    #nameserver:
+     #- 223.5.5.5 # 阿里DNS
+     #- 180.76.76.76 # 百度DNS
+     #- 119.29.29.29 # 腾讯DNS
+     #- 117.50.11.11 # ONE DNS拦截版 恶意网站拦截、广告过滤
+     #- 117.50.10.10 # ONE DNS纯净版 直接返回其真实的响应结果
+     #- 114.114.114.114 # 114DNS
+  #experimental:
+    #interface-name: WLAN
+    
 # 打断连接
 # Identify strategy of breaking connections after switching to a new proxy/profile/mode
 # Options for proxy: none, chain(proxy group in connection chains), all
@@ -334,7 +350,6 @@ cfw-bypass:
   - "*.toutiaoimg.com"
   - "*.toutiaopage.com"
   - "*.wukong.com"
-  - "*.yximgs.com"
   - "*.zijieimg.com"
   - "*.zjbyte.com"
   - "*.zjcdn.com"
@@ -393,6 +408,9 @@ cfw-bypass:
   - "*.iciba.com"
   - "*.ksosoft.com"
   - "*.ksyun.com"
+  # Kuaishou 快手
+  - "*.kuaishou.com"
+  - "*.yximgs.com"
   # Meitu
   - "*.meitu.com"
   - "*.meitudata.com"

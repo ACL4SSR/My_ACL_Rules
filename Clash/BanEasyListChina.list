@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-04-15 21:18:04
-# 数量：5012条
+# 更新：2020-04-18 13:12:41
+# 数量：5020条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -653,6 +653,7 @@ DOMAIN-SUFFIX,abeij.com
 DOMAIN-SUFFIX,abfirst.cn
 DOMAIN-SUFFIX,abie10.top
 DOMAIN-SUFFIX,abie11.top
+DOMAIN-SUFFIX,abie25.top
 DOMAIN-SUFFIX,abie9.top
 DOMAIN-SUFFIX,abuse8.com
 DOMAIN-SUFFIX,ac.86huoche.com
@@ -921,6 +922,7 @@ DOMAIN-SUFFIX,bd1.99danji.com
 DOMAIN-SUFFIX,bd1.dopa.com
 DOMAIN-SUFFIX,bd1.flfgw.cn
 DOMAIN-SUFFIX,bd1.jinbaozy.com
+DOMAIN-SUFFIX,bd1.ningboseo0574.com
 DOMAIN-SUFFIX,bd1.pipaw.com
 DOMAIN-SUFFIX,bd1.qcjslm.com
 DOMAIN-SUFFIX,bd1.sosg.net
@@ -1015,6 +1017,7 @@ DOMAIN-SUFFIX,bjyikao.org
 DOMAIN-SUFFIX,bjzcbx.com
 DOMAIN-SUFFIX,bk9gun.vpser.net
 DOMAIN-SUFFIX,bkyhq.cn
+DOMAIN-SUFFIX,bkzisok.cn
 DOMAIN-SUFFIX,bla01.com
 DOMAIN-SUFFIX,blfyquz.cn
 DOMAIN-SUFFIX,bllzgqbyp
@@ -1278,6 +1281,7 @@ DOMAIN-SUFFIX,comesgo.com
 DOMAIN-SUFFIX,compass-fit.jp
 DOMAIN-SUFFIX,continuedsys.cn
 DOMAIN-SUFFIX,coolpadrom.cn
+DOMAIN-SUFFIX,cooltool.cc
 DOMAIN-SUFFIX,cooolyi.cn
 DOMAIN-SUFFIX,corechina.net
 DOMAIN-SUFFIX,cornplus.cn
@@ -1922,7 +1926,9 @@ DOMAIN-SUFFIX,glrcy.cn
 DOMAIN-SUFFIX,glvej.com
 DOMAIN-SUFFIX,gm682.com
 DOMAIN-SUFFIX,gmxyorg.cn
+DOMAIN-SUFFIX,gneusqa.cn
 DOMAIN-SUFFIX,gnmbd.top
+DOMAIN-SUFFIX,gnncc.cc
 DOMAIN-SUFFIX,go.hangzhou.com.cn
 DOMAIN-SUFFIX,gobali.cn
 DOMAIN-SUFFIX,godloveme.cn
@@ -3230,6 +3236,7 @@ DOMAIN-SUFFIX,oikqfwv.cn
 DOMAIN-SUFFIX,oikxlcv.wang
 DOMAIN-SUFFIX,oir85.cn
 DOMAIN-SUFFIX,oiwjcsh001.top
+DOMAIN-SUFFIX,oiwjcsh010.top
 DOMAIN-SUFFIX,ojues.com
 DOMAIN-SUFFIX,ok.432kkk.com
 DOMAIN-SUFFIX,okkkk.com
@@ -4462,6 +4469,7 @@ DOMAIN-SUFFIX,xmrepair.com
 DOMAIN-SUFFIX,xmsqz.com
 DOMAIN-SUFFIX,xmtsyg.com
 DOMAIN-SUFFIX,xmxxwl.com
+DOMAIN-SUFFIX,xn--2qu92fhtx4ff.ink
 DOMAIN-SUFFIX,xn--2qu96gouvko1a.com
 DOMAIN-SUFFIX,xn--2qux23c9ziyrq.icu
 DOMAIN-SUFFIX,xn--2qux23confgml.club

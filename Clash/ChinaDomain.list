@@ -142,7 +142,6 @@ DOMAIN-SUFFIX,toutiaohao.net
 DOMAIN-SUFFIX,toutiaoimg.com
 DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,wukong.com
-DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjcdn.com
@@ -211,6 +210,10 @@ DOMAIN-SUFFIX,paipai.com
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,ksosoft.com
 DOMAIN-SUFFIX,ksyun.com
+
+# Kuaishou 快手
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,yximgs.com
 
 # Meitu
 DOMAIN-SUFFIX,meitu.com
