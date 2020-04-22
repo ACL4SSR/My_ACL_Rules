@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-04-18 13:12:47
-# 数量：2549条
+# 更新：2020-04-20 21:58:54
+# 数量：2554条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -351,6 +351,7 @@ DOMAIN-SUFFIX,beacon.www.theguardian.com
 DOMAIN-SUFFIX,beacon2.indieclick.com
 DOMAIN-SUFFIX,beacons.brandads.net
 DOMAIN-SUFFIX,beacons.mediamelon.com
+DOMAIN-SUFFIX,beagle.prod.tda.link
 DOMAIN-SUFFIX,beap-bc.yahoo.com
 DOMAIN-SUFFIX,behave.noen.at
 DOMAIN-SUFFIX,behave.sn.at
@@ -698,6 +699,7 @@ DOMAIN-SUFFIX,dot-stat.radikal.ru
 DOMAIN-SUFFIX,dot.wp.pl
 DOMAIN-SUFFIX,dp.shoprunner.com
 DOMAIN-SUFFIX,dpm.bluray-disc.de
+DOMAIN-SUFFIX,dsg.interia.pl
 DOMAIN-SUFFIX,dt.nrjmobile.fr
 DOMAIN-SUFFIX,dup.baidustatic.com
 DOMAIN-SUFFIX,dv.chemie.de
@@ -917,6 +919,7 @@ DOMAIN-SUFFIX,gc.newsweek.com
 DOMAIN-SUFFIX,gcpdata.telegraph.co.uk
 DOMAIN-SUFFIX,gdm1.toner.fr
 DOMAIN-SUFFIX,gekko.spiceworks.com
+DOMAIN-SUFFIX,geo.6play.fr
 DOMAIN-SUFFIX,geo.battle.net
 DOMAIN-SUFFIX,geo.ertya.com
 DOMAIN-SUFFIX,geo.gorillanation.com
@@ -1245,6 +1248,7 @@ DOMAIN-SUFFIX,mm.welt.de
 DOMAIN-SUFFIX,mmm.carbuyer.co.uk
 DOMAIN-SUFFIX,mmm.theweek.co.uk
 DOMAIN-SUFFIX,mms.al.com
+DOMAIN-SUFFIX,mms.blick.ch
 DOMAIN-SUFFIX,mms.cbslocal.com
 DOMAIN-SUFFIX,mms.cleveland.com
 DOMAIN-SUFFIX,mms.cloudpro.co.uk
@@ -1598,6 +1602,7 @@ DOMAIN-SUFFIX,scribe.twitter.com
 DOMAIN-SUFFIX,scripts.psyma.com
 DOMAIN-SUFFIX,sdrive.skoda-auto.com
 DOMAIN-SUFFIX,secure-stat.canal-plus.com
+DOMAIN-SUFFIX,secure.merchantadvantage.com
 DOMAIN-SUFFIX,securite.01net.com
 DOMAIN-SUFFIX,seg.sharethis.com
 DOMAIN-SUFFIX,sem.triboomedia.it
@@ -2113,7 +2118,6 @@ DOMAIN-SUFFIX,tp.deawm.com
 DOMAIN-SUFFIX,tp.ranker.com
 DOMAIN-SUFFIX,tpa7.iahorro.com
 DOMAIN-SUFFIX,tpx.tesseradigital.com
-DOMAIN-SUFFIX,tr.api.itmedia.jp
 DOMAIN-SUFFIX,tr.bt.matrixspa.it
 DOMAIN-SUFFIX,tr.cloud-media.fr
 DOMAIN-SUFFIX,tr.connatix.com
@@ -2408,6 +2412,7 @@ DOMAIN-SUFFIX,ttauri.whathifi.com
 DOMAIN-SUFFIX,ttdetect.staticimgfarm.com
 DOMAIN-SUFFIX,tvl8.supdecreation.com
 DOMAIN-SUFFIX,tw.i.hulu.com
+DOMAIN-SUFFIX,twch.20min.ch
 DOMAIN-SUFFIX,txn.grabnetworks.com
 DOMAIN-SUFFIX,txn.thenewsroom.com
 DOMAIN-SUFFIX,ubt.berlingskemedia.net

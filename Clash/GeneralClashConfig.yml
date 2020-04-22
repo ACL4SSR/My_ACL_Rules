@@ -220,8 +220,10 @@ cfw-bypass:
   # 直连列表
   # MyList
   - "*.423down.com"
+  - "*.bokecc.com"
   - "*.chaipip.com"
   - "*.hrtsea.com"
+  - "*.kaikeba.com"
   - "*.laomo.me"
   - "*.mpyit.com"
   # CN域名直连

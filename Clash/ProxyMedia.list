@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2020-04-18 13:12:55
-# 数量：258条
+# 更新：2020-04-22 20:46:27
+# 数量：261条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -270,6 +270,9 @@ DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 
+# Qobuz
+DOMAIN-SUFFIX,qobuz.com
+
 # SoundCloud
 USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,p-cdn.us
@@ -287,7 +290,9 @@ DOMAIN-SUFFIX,spotify.com
 
 # TIDAL
 USER-AGENT,TIDAL*
+DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
 DOMAIN-SUFFIX,tidal.com
+DOMAIN-SUFFIX,tidalhifi.com
 
 # TaiWanGood
 USER-AGENT,TaiwanGood*
