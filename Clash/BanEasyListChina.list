@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-04-22 20:46:14
-# 数量：5036条
+# 更新：2020-04-24 22:08:59
+# 数量：5045条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -389,6 +389,7 @@ DOMAIN-SUFFIX,626uc.com
 DOMAIN-SUFFIX,63xs.com:8016
 DOMAIN-SUFFIX,643226.com
 DOMAIN-SUFFIX,644446.com
+DOMAIN-SUFFIX,64ri.cn
 DOMAIN-SUFFIX,64si.com
 DOMAIN-SUFFIX,652748.com
 DOMAIN-SUFFIX,6612151.cn
@@ -634,6 +635,7 @@ DOMAIN-SUFFIX,aa.gushiwen.org
 DOMAIN-SUFFIX,aa.ninze.com
 DOMAIN-SUFFIX,aa.wenxue6.com
 DOMAIN-SUFFIX,aa.xiangxiangmf.com
+DOMAIN-SUFFIX,aaa.tumanyi.com
 DOMAIN-SUFFIX,aaan.xyz
 DOMAIN-SUFFIX,aaaw.xyz
 DOMAIN-SUFFIX,aabbccddeeffgg.cn
@@ -925,6 +927,7 @@ DOMAIN-SUFFIX,bd1.365qilu.com
 DOMAIN-SUFFIX,bd1.99danji.com
 DOMAIN-SUFFIX,bd1.dopa.com
 DOMAIN-SUFFIX,bd1.flfgw.cn
+DOMAIN-SUFFIX,bd1.it028.net.cn
 DOMAIN-SUFFIX,bd1.jinbaozy.com
 DOMAIN-SUFFIX,bd1.ningboseo0574.com
 DOMAIN-SUFFIX,bd1.pipaw.com
@@ -1014,6 +1017,7 @@ DOMAIN-SUFFIX,bjgtsh.com
 DOMAIN-SUFFIX,bjhengdiao.com
 DOMAIN-SUFFIX,bjhuhangjy.com
 DOMAIN-SUFFIX,bjqftcty.com
+DOMAIN-SUFFIX,bjtengda.cn
 DOMAIN-SUFFIX,bjtrld.com
 DOMAIN-SUFFIX,bjwwfx001.org.cn
 DOMAIN-SUFFIX,bjygfd.com
@@ -2121,6 +2125,7 @@ DOMAIN-SUFFIX,hellogalaxy.cn
 DOMAIN-SUFFIX,helpinfo.cn
 DOMAIN-SUFFIX,henanfs.com
 DOMAIN-SUFFIX,henanlinyu.cn
+DOMAIN-SUFFIX,henanlvyi.com
 DOMAIN-SUFFIX,henduoqian.com
 DOMAIN-SUFFIX,hengshui1.com
 DOMAIN-SUFFIX,hesxz.com
@@ -3245,6 +3250,7 @@ DOMAIN-SUFFIX,oikxlcv.wang
 DOMAIN-SUFFIX,oir85.cn
 DOMAIN-SUFFIX,oiwjcsh001.top
 DOMAIN-SUFFIX,oiwjcsh010.top
+DOMAIN-SUFFIX,oiwjcsh011.top
 DOMAIN-SUFFIX,ojues.com
 DOMAIN-SUFFIX,ok.432kkk.com
 DOMAIN-SUFFIX,okkkk.com
@@ -3849,6 +3855,7 @@ DOMAIN-SUFFIX,sxdyrq.com
 DOMAIN-SUFFIX,sxjkc.cn
 DOMAIN-SUFFIX,sxjxhg.com
 DOMAIN-SUFFIX,sxlczj.cn
+DOMAIN-SUFFIX,sxljldh.top
 DOMAIN-SUFFIX,sxmdxy.com
 DOMAIN-SUFFIX,sxmutan.com
 DOMAIN-SUFFIX,sxtyhl.top
@@ -4049,6 +4056,7 @@ DOMAIN-SUFFIX,u2c8.cn
 DOMAIN-SUFFIX,u372q.cn
 DOMAIN-SUFFIX,u7qy3e.cn
 DOMAIN-SUFFIX,uadsaa.com
+DOMAIN-SUFFIX,uauwkfk.cn
 DOMAIN-SUFFIX,ub1.job592.com
 DOMAIN-SUFFIX,ubaii.com
 DOMAIN-SUFFIX,ubalh.com
@@ -4492,6 +4500,7 @@ DOMAIN-SUFFIX,xn--czrshy5v7kb.cc
 DOMAIN-SUFFIX,xn--fjqz50cv5q3so.ltd
 DOMAIN-SUFFIX,xn--fjqz50cv5q3so.online
 DOMAIN-SUFFIX,xn--i6qs37am6iwyqffc.com
+DOMAIN-SUFFIX,xn--i7qt52bvsr0u0a.com
 DOMAIN-SUFFIX,xn--mtso8sj6menhyil.online
 DOMAIN-SUFFIX,xn--mtsr39cnql.video
 DOMAIN-SUFFIX,xn--tst552fo5s.xyz

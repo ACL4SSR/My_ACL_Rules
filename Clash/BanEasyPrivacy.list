@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-04-20 21:58:54
-# 数量：2554条
+# 更新：2020-04-24 22:09:07
+# 数量：2553条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -372,6 +372,7 @@ DOMAIN-SUFFIX,blip.bizrate.com
 DOMAIN-SUFFIX,bmcm.ml
 DOMAIN-SUFFIX,bmcm.pw
 DOMAIN-SUFFIX,bmnr.pw
+DOMAIN-SUFFIX,bmrg.reflected.net
 DOMAIN-SUFFIX,bmst.pw
 DOMAIN-SUFFIX,bn.adultempire.com
 DOMAIN-SUFFIX,bnr.alza.cz
@@ -880,6 +881,7 @@ DOMAIN-SUFFIX,flashstats.libsyn.com
 DOMAIN-SUFFIX,fog.pixual.co
 DOMAIN-SUFFIX,footprint.anetwork.ir
 DOMAIN-SUFFIX,fourmtagservices.appspot.com
+DOMAIN-SUFFIX,fp.measure.office.com
 DOMAIN-SUFFIX,fresh.techdirt.com
 DOMAIN-SUFFIX,frog.wix.com
 DOMAIN-SUFFIX,fsm.lapresse.ca
@@ -960,7 +962,6 @@ DOMAIN-SUFFIX,gjr5.yoigo.com
 DOMAIN-SUFFIX,glasgowtimes-gb.glasgowtimes.co.uk
 DOMAIN-SUFFIX,glassmoni.researchgate.net
 DOMAIN-SUFFIX,glbdns.microsoft.com
-DOMAIN-SUFFIX,glean.pop6.com
 DOMAIN-SUFFIX,glogger.inspcloud.com
 DOMAIN-SUFFIX,gmonitor.aliimg.com
 DOMAIN-SUFFIX,gnar.grammarly.com
@@ -1501,7 +1502,6 @@ DOMAIN-SUFFIX,px.wayfair.com
 DOMAIN-SUFFIX,px.wp.pl
 DOMAIN-SUFFIX,pxc.otto.de
 DOMAIN-SUFFIX,qubitanalytics.appspot.com
-DOMAIN-SUFFIX,quiz.stroeermediabrands.de
 DOMAIN-SUFFIX,r.bbci.co.uk
 DOMAIN-SUFFIX,r.mail.ru
 DOMAIN-SUFFIX,r.msn.com
@@ -2094,7 +2094,6 @@ DOMAIN-SUFFIX,tk.storetail.io
 DOMAIN-SUFFIX,tkpi.delta.com
 DOMAIN-SUFFIX,tl.tradetracker.net
 DOMAIN-SUFFIX,tlp5.mimale.com
-DOMAIN-SUFFIX,tm.jsuol.com.br
 DOMAIN-SUFFIX,tm.tradetracker.net
 DOMAIN-SUFFIX,tm.uol.com.br
 DOMAIN-SUFFIX,tm.vendemore.com
