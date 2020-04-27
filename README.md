@@ -1,6 +1,7 @@
 # SSR去广告规则/GFWList规则/Clash规则碎片
 
 * CDN更新状态：[![Actions Status](https://github.com/ACL4SSR/ACL4SSR/workflows/Purge%20CDN%20Cache/badge.svg)](https://github.com/ACL4SSR/ACL4SSR/actions)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FACL4SSR%2FACL4SSR.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FACL4SSR%2FACL4SSR?ref=badge_shield)
 * 项目基于CC-BY-SA-4.0协议发布  [![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 * 仅推荐未root的安卓手机使用。
 * Telegram频道订阅地址：**[https://t.me/ACL4SSR](https://t.me/ACL4SSR)**
@@ -108,3 +109,6 @@
 # License		
 [![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 * CC-BY-SA-4.0
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FACL4SSR%2FACL4SSR.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FACL4SSR%2FACL4SSR?ref=badge_large)
