@@ -18,6 +18,7 @@ dns:
     - 119.29.29.29
 Proxy: ~
 Proxy Group: ~
+Rule: ~
 cfw-latency-timeout: 3000
 cfw-latency-url: http://www.gstatic.com/generate_204
 cfw-conn-break-strategy:
@@ -620,4 +621,3 @@ cfw-bypass:
   - 172.31.*
   - 192.168.*
   - <local>
-Rule: ~
