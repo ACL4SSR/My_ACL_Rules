@@ -1,0 +1,7 @@
+# 自定义直连规则
+
+# uplay登陆
+DOMAIN,public-ubiservices.ubi.com
+
+# steam登陆
+DOMAIN-SUFFIX,steampowered.com

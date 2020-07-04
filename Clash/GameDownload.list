@@ -1,0 +1,15 @@
+#steam游戏下载
+DOMAIN-SUFFIX,dl.steam.ksyna.com
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com
+
+#uplay游戏下载
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+
+#origin游戏下载
+DOMAIN,origin-a.akamaihd.net
+DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
+
+#epic游戏下载

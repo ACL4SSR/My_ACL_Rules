@@ -1,0 +1,40 @@
+#Steam平台
+#不包含登陆
+DOMAIN,api.steampowered.com
+DOMAIN-SUFFIX,csgo.wmsj.cn
+DOMAIN-SUFFIX,dota2.wmsj.cn
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steamstat.us
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamusercontent.com
+
+#Epic平台
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,unrealengine.com
+
+#uplay平台  
+# uplay客户端更新（非游戏下载）
+DOMAIN,static3.cdn.ubi.com
+# uplay云同步
+DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
+DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
+# uplay不显示等级/不显示好友等问题/卡正在初始化（不含登陆与云同步）
+DOMAIN,public-im-ubiservices.ubi.com
+DOMAIN,msr-public-ubiservices.ubi.com
+DOMAIN,public-ws.aws-ubiservices.ubi.com
+DOMAIN,public.aws-ubiservices.ubi.com
+DOMAIN,public-ws-ubiservices.ubi.com
+DOMAIN,api-ubiservices.ubi.com
+DOMAIN,lb-upc-dmx.ubisoft.com
+DOMAIN,msr-api-ubiservices.ubi.com
+DOMAIN,dmx.upc.ubisoft.com
+
+#origin平台
