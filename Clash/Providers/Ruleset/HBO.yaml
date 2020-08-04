@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,warnermediacdn.com
+  - DOMAIN-SUFFIX,test
