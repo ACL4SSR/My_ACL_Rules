@@ -1,0 +1,12 @@
+payload:
+  # 内容：HBO
+  # 条数：9 条
+  - DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hboasia.com
+  - DOMAIN-SUFFIX,hbogo.com
+  - DOMAIN-SUFFIX,hbogoasia.com
+  - DOMAIN-SUFFIX,hbogoasia.hk
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,hbonow.com
+  - DOMAIN-SUFFIX,warnermediacdn.com
