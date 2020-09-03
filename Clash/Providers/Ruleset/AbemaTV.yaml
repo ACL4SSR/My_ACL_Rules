@@ -1,7 +1,7 @@
 payload:
   # 内容：AbemaTV
   # 数量：6条
-  - USER-AGENT,AbemaTV*
+  # USER-AGENT,AbemaTV*
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-SUFFIX,abema.io
   - DOMAIN-SUFFIX,abema.tv
