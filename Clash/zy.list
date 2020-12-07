@@ -24,3 +24,4 @@ DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,oppaiti.me
 #
 DOMAIN-SUFFIX,xue.im
+IP-CIDR,23.39.74.0/24
