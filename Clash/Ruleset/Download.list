@@ -1,7 +1,6 @@
 # 内容：Download
 # 数量：20条
 DOMAIN-KEYWORD,aria2
-DOMAIN-SUFFIX,smtp
 PROCESS-NAME,DownloadService
 PROCESS-NAME,Folx
 PROCESS-NAME,NetTransport
