@@ -1,5 +1,5 @@
 #virmach.com
-DOMAIN-KEYWORD,virmach
+DOMAIN-KEYWORD,virmach.com
 #ipip.net
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,rtbasia.com
@@ -27,3 +27,4 @@ DOMAIN-SUFFIX,xue.im
 IP-CIDR,23.39.74.0/24,no-resolve
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,188186.xyz
+
