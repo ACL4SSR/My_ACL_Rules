@@ -4,8 +4,8 @@ payload:
   # 数量：31条
 
   # Bilibili 哔哩哔哩
-  - USER-AGENT,Bilibili*
-  - USER-AGENT,bili*
+  # - USER-AGENT,Bilibili*
+  # - USER-AGENT,bili*
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,acgvideo.com
@@ -24,8 +24,8 @@ payload:
   - DOMAIN-SUFFIX,smtcdns.net
 
   # Iqiyi 爱奇艺
-  - USER-AGENT,QIYI*
-  - USER-AGENT,iQiYi*
+  # - USER-AGENT,QIYI*
+  # - USER-AGENT,iQiYi*
   - DOMAIN-KEYWORD,qiyi
   - DOMAIN-SUFFIX,qy.net
   - IP-CIDR,101.224.0.0/13,no-resolve
@@ -36,8 +36,8 @@ payload:
   - DOMAIN-SUFFIX,api.mob.app.letv.com
 
   # MOO
-  - USER-AGENT,MOO*
-  - USER-AGENT,TencentMidasConnect*
+  # - USER-AGENT,MOO*
+  # - USER-AGENT,TencentMidasConnect*
 
   # TencentVideo 腾讯视频
   - DOMAIN-SUFFIX,v.smtcdns.com
