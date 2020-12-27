@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,oppaiti.me
 #
 DOMAIN-SUFFIX,xue.im
 IP-CIDR,23.39.74.0/24,no-resolve
+IP-CIDR,172.40.0.0/16,no-resolve
+IP-CIDR,172.20.0.0/16,no-resolve
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,188186.xyz
-
