@@ -3804,25 +3804,6 @@
 (^|\.)popvote\.hk$
 (^|\.)popyard\.com$
 (^|\.)popyard\.org$
-(^|\.)porn2\.com$
-(^|\.)porn5\.com$
-(^|\.)porn\.com$
-(^|\.)pornbase\.org$
-(^|\.)pornerbros\.com$
-(^|\.)pornhd\.com$
-(^|\.)pornhost\.com$
-(^|\.)pornhub\.com$
-(^|\.)pornhubdeutsch\.net$
-(^|\.)pornmm\.net$
-(^|\.)pornoxo\.com$
-(^|\.)pornrapidshare\.com$
-(^|\.)pornsharing\.com$
-(^|\.)pornsocket\.com$
-(^|\.)pornstarclub\.com$
-(^|\.)porntube\.com$
-(^|\.)porntubenews\.com$
-(^|\.)porntvblog\.com$
-(^|\.)pornvisit\.com$
 (^|\.)port25\.biz$
 (^|\.)portablevpn\.nl$
 (^|\.)poskotanews\.com$
@@ -5462,19 +5443,9 @@
 (^|\.)xuehua\.us$
 (^|\.)xuite\.net$
 (^|\.)xuzhiyong\.net$
-(^|\.)xvideo\.cc$
-(^|\.)xvideos\.com$
-(^|\.)xvideos\.es$
 (^|\.)xxbbx\.com$
 (^|\.)xxlmovies\.com$
 (^|\.)xxuz\.com$
-(^|\.)xxx\.com$
-(^|\.)xxx\.xxx$
-(^|\.)xxxfuckmom\.com$
-(^|\.)xxxx\.com\.au$
-(^|\.)xxxy\.biz$
-(^|\.)xxxy\.info$
-(^|\.)xxxymovies\.com$
 (^|\.)xys\.org$
 (^|\.)xysblogs\.org$
 (^|\.)xyy69\.com$
@@ -5907,31 +5878,6 @@
 # Pixiv
 (^|\.)pixiv\.net$
 (^|\.)pximg\.net$
-
-# Porn
-(^|\.)\w*porn\w*\.\w*$
-(^|\.)8teenxxx\.com$
-(^|\.)ahcdn\.com$
-(^|\.)bcvcdn\.com$
-(^|\.)bongacams\.com$
-(^|\.)chaturbate\.com$
-(^|\.)dditscdn\.com$
-(^|\.)livejasmin\.com$
-(^|\.)phncdn\.com$
-(^|\.)phprcdn\.com$
-(^|\.)pornhub\.com$
-(^|\.)pornhubpremium\.com$
-(^|\.)rdtcdn\.com$
-(^|\.)redtube\.com$
-(^|\.)sb-cd\.com$
-(^|\.)spankbang\.com$
-(^|\.)t66y\.com$
-(^|\.)xhamster\.com$
-(^|\.)xnxx-cdn\.com$
-(^|\.)xnxx\.com$
-(^|\.)xvideos-cdn\.com$
-(^|\.)xvideos\.com$
-(^|\.)ypncdn\.com$
 
 # ResiloSync
 (^|\.)config\.getsync\.com$
