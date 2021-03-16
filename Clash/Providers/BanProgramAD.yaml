@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,oimagea2.ydstatic.com
   - DOMAIN-SUFFIX,pagechoice.net
   - DOMAIN-SUFFIX,prom.gome.com.cn
+  - DOMAIN-SUFFIX,push.126.net
   - DOMAIN-SUFFIX,qchannel0d.cn
   - DOMAIN-SUFFIX,qt002x.corp.youdao.com
   - DOMAIN-SUFFIX,rlogs.youdao.com
@@ -286,6 +287,7 @@ payload:
   - DOMAIN-SUFFIX,mobads.baidu.cn
   - DOMAIN-SUFFIX,mobads.baidu.com
   - DOMAIN-SUFFIX,mpro.baidu.com
+  - DOMAIN-SUFFIX,msite.baidu.com
   - DOMAIN-SUFFIX,mtj.baidu.cn
   - DOMAIN-SUFFIX,mtj.baidu.com
   - DOMAIN-SUFFIX,neirong.baidu.com
@@ -474,7 +476,8 @@ payload:
 
   # Kugou
   - DOMAIN-SUFFIX,ads.service.kugou.com
-  - DOMAIN-SUFFIX,adsfile.bssdlbig.kugou.com
+  - DOMAIN-SUFFIX,bssdl.kugou.com
+  - DOMAIN-SUFFIX,bssdlbig.kugou.com
   - DOMAIN-SUFFIX,d.kugou.com
   - DOMAIN-SUFFIX,downmobile.kugou.com
   - DOMAIN-SUFFIX,gad.kugou.com
@@ -1114,6 +1117,7 @@ payload:
   - DOMAIN-SUFFIX,e.nexac.com
   - DOMAIN-SUFFIX,eq.10jqka.com.cn
   - DOMAIN-SUFFIX,exp.17wo.cn
+  - DOMAIN-SUFFIX,fund.10jqka.com.cn
   - DOMAIN-SUFFIX,game.51yund.com
   - DOMAIN-SUFFIX,ganjituiguang.ganji.com
   - DOMAIN-SUFFIX,grand.ele.me

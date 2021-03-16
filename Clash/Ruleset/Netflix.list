@@ -1,8 +1,6 @@
 # 内容：Netflix
-# 数量：42条
+# 数量：40条
 USER-AGENT,Argo*
-DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
-DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com

@@ -7,6 +7,7 @@ payload:
   - DOMAIN-KEYWORD,adsage
   - DOMAIN-KEYWORD,adsensor
   - DOMAIN-KEYWORD,adservice
+  - DOMAIN-KEYWORD,adsh
   - DOMAIN-KEYWORD,adsmogo
   - DOMAIN-KEYWORD,adsrvmedia
   - DOMAIN-KEYWORD,adsserving
@@ -19,6 +20,8 @@ payload:
   - DOMAIN-KEYWORD,duomeng
   - DOMAIN-KEYWORD,dwtrack
   - DOMAIN-KEYWORD,guanggao
+  - DOMAIN-KEYWORD,lianmeng
+  - DOMAIN-KEYWORD,monitor
   - DOMAIN-KEYWORD,omgmta
   - DOMAIN-KEYWORD,omniture
   - DOMAIN-KEYWORD,openx
@@ -322,6 +325,7 @@ payload:
   - DOMAIN-SUFFIX,optaim.com
   - DOMAIN-SUFFIX,optimix.asia
   - DOMAIN-SUFFIX,optimix.cn
+  - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,optimizelyapis.com
   - DOMAIN-SUFFIX,overture.com
   - DOMAIN-SUFFIX,p0y.cn

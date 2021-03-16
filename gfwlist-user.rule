@@ -3719,6 +3719,7 @@
 .rxhj.net remoteproxy
 .s-cute.com remoteproxy
 .s-dragon.org remoteproxy
+.s.gravatar.com remoteproxy
 .s1.nudezz.com remoteproxy
 .s1.nyt.com remoteproxy
 .s1heng.com remoteproxy
@@ -5299,6 +5300,7 @@
 .img2.126.net reject
 .mimg.126.net reject
 .ws.126.net reject
+.push.126.net reject
 .haitaoad.nosdn.127.net reject
 
 .a.youdao.com reject
@@ -6105,6 +6107,7 @@
 .its-dori.tumblr.com reject
 .adm.10jqka.com.cn reject
 .eq.10jqka.com.cn reject
+.fund.10jqka.com.cn reject
 .ozone.10jqka.com.cn reject
 .stat.10jqka.com.cn reject
 .vaserviece.10jqka.com.cn reject
@@ -6424,6 +6427,7 @@
 .onetad.com reject
 .optaim.com reject
 .optimix.asia reject
+.optimizely.com reject
 .optimizelyapis.com reject
 .overture.com reject
 .p0y.cn reject

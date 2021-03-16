@@ -3,18 +3,13 @@
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 
-# Getui
-DOMAIN-SUFFIX,dizhensubao.getui.com
-
 # Google
 DOMAIN,dl.google.com
+DOMAIN,mtalk.google.com
 DOMAIN-SUFFIX,googletraveladservices.com
 
 # Mozilla
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
-
-# Origin
-DOMAIN,origin-a.akamaihd.net
 
 # Tencent
 DOMAIN,livew.l.qq.com
